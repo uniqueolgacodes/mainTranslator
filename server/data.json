@@ -1,0 +1,3857 @@
+[
+  {
+    "English": "a lot, very",
+    "Edo": " kakabo",
+    "English Sentences": "Run very well",
+    "Edo Sentences": " Kakabo rhule",
+    "English Translations": "Very run"
+  },
+  {
+    "English": "able, can",
+    "Edo": " ghua",
+    "English Sentences": "Horses can run very well",
+    "Edo Sentences": "iEsin ghua wa rhule",
+    "English Translations": "Horse can very run"
+  },
+  {
+    "English": "agree",
+    "Edo": " kuwe",
+    "English Sentences": "That woman agreed for that man",
+    "Edo Sentences": " Okhuo nii kuwe ne opkia nii",
+    "English Translations": "Woman that agree for man that"
+  },
+  {
+    "English": "Air",
+    "Edo": "iEho",
+    "English Sentences": "This is very good wind",
+    "Edo Sentences": "iEho na wa ma",
+    "English Translations": "Wind this very good"
+  },
+  {
+    "English": "Airplane, Airplanes",
+    "Edo": " Okeho",
+    "English Sentences": "The airplane is in the sky",
+    "Edo Sentences": " Okeho re iso",
+    "English Translations": "Airplane is in sky"
+  },
+  {
+    "English": "Akara (Fried grounded beans)",
+    "Edo": " Eka",
+    "English Sentences": "The akara is on the table",
+    "Edo Sentences": " Eka re etabu",
+    "English Translations": "Akara is on table"
+  },
+  {
+    "English": "all",
+    "Edo": " hia",
+    "English Sentences": "All the people",
+    "Edo Sentences": " Emwan hia",
+    "English Translations": "People all"
+  },
+  {
+    "English": "all",
+    "Edo": " khia",
+    "English Sentences": "Eat all the rice",
+    "Edo Sentences": " Rrie ize khia",
+    "English Translations": "Eat rice all"
+  },
+  {
+    "English": "allow",
+    "Edo": " gie",
+    "English Sentences": "His father allowed him to do it",
+    "Edo Sentences": " Erha ere gie we ere",
+    "English Translations": "Father his allow do it"
+  },
+  {
+    "English": "allow",
+    "Edo": " ghie",
+    "English Sentences": "He did not allow him to do it",
+    "Edo Sentences": " O ma ghie ere we ere",
+    "English Translations": "He did not allow him do it"
+  },
+  {
+    "English": "already",
+    "Edo": " ne",
+    "English Sentences": "Owie has already gone",
+    "Edo Sentences": " Owie khian ne",
+    "English Translations": "Owie going already"
+  },
+  {
+    "English": "also",
+    "Edo": " vbe ",
+    "English Sentences": "You also sit down",
+    "Edo Sentences": " We vbe tota",
+    "English Translations": "You also sit down"
+  },
+  {
+    "English": "and",
+    "Edo": " kevbe",
+    "English Sentences": "Hand and leg",
+    "Edo Sentences": " Obo kevbe owe",
+    "English Translations": "Hand and leg"
+  },
+  {
+    "English": "are",
+    "Edo": " ena ",
+    "English Sentences": "These are goats",
+    "Edo Sentences": "iEwe ena khin",
+    "English Translations": "Goats are these"
+  },
+  {
+    "English": "are",
+    "Edo": " re",
+    "English Sentences": "Are there",
+    "Edo Sentences": " Re evba",
+    "English Translations": "Are there"
+  },
+  {
+    "English": "arrive",
+    "Edo": " se",
+    "English Sentences": "Osaze has arrived there",
+    "Edo Sentences": " Osaze se evba ne",
+    "English Translations": "Osaze arrive there has"
+  },
+  {
+    "English": "at",
+    "Edo": " vbe ",
+    "English Sentences": "At home",
+    "Edo Sentences": " Vbe owa",
+    "English Translations": "At home"
+  },
+  {
+    "English": "at",
+    "Edo": " ye",
+    "English Sentences": "At home",
+    "Edo Sentences": " ye owa",
+    "English Translations": "At home"
+  },
+  {
+    "English": "away",
+    "Edo": " fua",
+    "English Sentences": "Throw the stone away",
+    "Edo Sentences": " Fie ugbe fua",
+    "English Translations": "Throw stone away"
+  },
+  {
+    "English": "away",
+    "Edo": " kwua",
+    "English Sentences": "Pour that water away",
+    "Edo Sentences": " Tue amen nii kwua",
+    "English Translations": "Pour water that away"
+  },
+  {
+    "English": "away",
+    "Edo": " ree",
+    "English Sentences": "Run away from here",
+    "Edo Sentences": " Le ye evban ree",
+    "English Translations": "Run from here away"
+  },
+  {
+    "English": "Baby",
+    "Edo": "iOmomo",
+    "English Sentences": "There are many babies in that house",
+    "Edo Sentences": "iOmomo bun vbe owa nii",
+    "English Translations": "Baby many in house that"
+  },
+  {
+    "English": "Back",
+    "Edo": " Iyeke",
+    "English Sentences": "His back is very dry",
+    "Edo Sentences": " Iyeke e wa ye kakaka",
+    "English Translations": "Back his very is dry"
+  },
+  {
+    "English": "back/return",
+    "Edo": " re",
+    "English Sentences": "Go and come",
+    "Edo Sentences": " Khian yo khian re",
+    "English Translations": "Walk forth walk back"
+  },
+  {
+    "English": "Bag, Bags",
+    "Edo": "iEkpo",
+    "English Sentences": "School bag",
+    "Edo Sentences": "iEkpo esuku",
+    "English Translations": "Bag school"
+  },
+  {
+    "English": "Basket, Baskets",
+    "Edo": " Atete",
+    "English Sentences": "Chicken basket",
+    "Edo Sentences": " Atete oghe okhokho",
+    "English Translations": "Basket of chickens"
+  },
+  {
+    "English": "bath",
+    "Edo": " khue",
+    "English Sentences": "I have taken a bath",
+    "Edo Sentences": " I khue ne",
+    "English Translations": "I bath have"
+  },
+  {
+    "English": "Bead, Beads",
+    "Edo": " Ivie",
+    "English Sentences": "Beads are plenty in the market",
+    "Edo Sentences": " Ivie bun vbe eki",
+    "English Translations": "Beads plenty in market"
+  },
+  {
+    "English": "Bean, Beans",
+    "Edo": " Ehe",
+    "English Sentences": "We will carry the beans",
+    "Edo Sentences": " Ma gha mu ehe",
+    "English Translations": "We will carry beans"
+  },
+  {
+    "English": "Beard, Beards",
+    "Edo": "iEtu",
+    "English Sentences": "Huge beard",
+    "Edo Sentences": "iEtu no bun",
+    "English Translations": "Beard that many"
+  },
+  {
+    "English": "beat",
+    "Edo": " gbe",
+    "English Sentences": "Isiuwa beat the child",
+    "Edo Sentences": " Isiuwa gbe omo",
+    "English Translations": "Isiuwa beat child"
+  },
+  {
+    "English": "beautiful",
+    "Edo": " mose",
+    "English Sentences": "Women are beautiful",
+    "Edo Sentences": " Ikhuo mose",
+    "English Translations": "Women beautiful"
+  },
+  {
+    "English": "become",
+    "Edo": " khien",
+    "English Sentences": "The morning has become afternoon",
+    "Edo Sentences": " Owie khien avban",
+    "English Translations": "Morning become afternoon"
+  },
+  {
+    "English": "Bed, Beds",
+    "Edo": " Ukpo",
+    "English Sentences": "I have two beds",
+    "Edo Sentences": " I mwen ukpo eva",
+    "English Translations": "I have bed two"
+  },
+  {
+    "English": "believe",
+    "Edo": " yayi",
+    "English Sentences": "I do not believe",
+    "Edo Sentences": " I ma yayi",
+    "English Translations": "I do not believe"
+  },
+  {
+    "English": "Bell, Bells",
+    "Edo": "iEgogo",
+    "English Sentences": "Ring this bell",
+    "Edo Sentences": " Kpe egogo na",
+    "English Translations": "Ring bell this"
+  },
+  {
+    "English": "Belly, Bellies",
+    "Edo": "iEko",
+    "English Sentences": "His belly is small",
+    "Edo Sentences": "iEko ere ye khere",
+    "English Translations": "Belly his is small"
+  },
+  {
+    "English": "beside",
+    "Edo": "iokpen",
+    "English Sentences": "Beside the car",
+    "Edo Sentences": "iOkpen imoto",
+    "English Translations": "Beside car"
+  },
+  {
+    "English": "Bicycle, Bicycle",
+    "Edo": " Ikeke",
+    "English Sentences": "This is a beautiful bicycle",
+    "Edo Sentences": " Ikeke na mose",
+    "English Translations": "Bicycle this beautiful"
+  },
+  {
+    "English": "big",
+    "Edo": " kpolo",
+    "English Sentences": "This house is big",
+    "Edo Sentences": " Owa na kpolo",
+    "English Translations": "House this big"
+  },
+  {
+    "English": "big, mighty",
+    "Edo": " gedegbe",
+    "English Sentences": "Big nose",
+    "Edo Sentences": " Ikhue ne gedegbe",
+    "English Translations": "Nose is big"
+  },
+  {
+    "English": "Bird, Birds",
+    "Edo": " Ayanmwen",
+    "English Sentences": "A duck is a bird",
+    "Edo Sentences": " Ayanmwen ere kpekpeye khin",
+    "English Translations": "A bird is duck this"
+  },
+  {
+    "English": "Biscuit, Biscuits",
+    "Edo": " Eka",
+    "English Sentences": "The Cow eats or is eating the biscuit",
+    "Edo Sentences": " Emila rrie eka",
+    "English Translations": "Cow eat biscuit"
+  },
+  {
+    "English": "Body Lotion, Body Lotions",
+    "Edo": " Ohi",
+    "English Sentences": "Put lotion on your body",
+    "Edo Sentences": " Rrie ohi ye egbe",
+    "English Translations": "Put lotion on body"
+  },
+  {
+    "English": "Body, Bodies",
+    "Edo": " Egbe",
+    "English Sentences": "This is my body",
+    "Edo Sentences": " Egbe mwen na khin",
+    "English Translations": "Body my is this"
+  },
+  {
+    "English": "Book, Books",
+    "Edo": " Ebe",
+    "English Sentences": "You go read your book",
+    "Edo Sentences": " We ya tie ebe were",
+    "English Translations": "You go read book your"
+  },
+  {
+    "English": "born",
+    "Edo": " bie",
+    "English Sentences": "Ota has given birth to two children already",
+    "Edo Sentences": " Ota bie omo eva ne",
+    "English Translations": "Ota born children two already"
+  },
+  {
+    "English": "Bottle, Bottles",
+    "Edo": "iOgo",
+    "English Sentences": "Pour water into the bottle",
+    "Edo Sentences": " Se amen ye ogo",
+    "English Translations": "Pour water into bottle"
+  },
+  {
+    "English": "Bottom of feet",
+    "Edo": " Atatowe",
+    "English Sentences": "The bottom of his/her feet is very dry",
+    "Edo Sentences": " Atatowe oghe wa ye kakaka",
+    "English Translations": "bottom of feet his/her very is dry"
+  },
+  {
+    "English": "break",
+    "Edo": " guogho",
+    "English Sentences": "Owie broke the bottle (glass)",
+    "Edo Sentences": " Owie guogho ogo",
+    "English Translations": "Owie break bottle"
+  },
+  {
+    "English": "bright",
+    "Edo": " ba",
+    "English Sentences": "The sun is bright/shining",
+    "Edo Sentences": " Oven ba",
+    "English Translations": "Sun bright"
+  },
+  {
+    "English": "bring",
+    "Edo": " mu ",
+    "English Sentences": "Bring the chair",
+    "Edo Sentences": " Mu aga re",
+    "English Translations": "Bring chair come"
+  },
+  {
+    "English": "Broom, Brooms",
+    "Edo": " Owe",
+    "English Sentences": "Use this broom to sweep that floor",
+    "Edo Sentences": " Ye owe na ya kpolo oto nii",
+    "English Translations": "Use broom this to sweep floor that"
+  },
+  {
+    "English": "Bucket, Buckets",
+    "Edo": " Ikoba",
+    "English Sentences": "Take water from the well with the bucket",
+    "Edo Sentences": " Ye ikoba ya se amen vbe ughia",
+    "English Translations": "Use bucket to take water from well"
+  },
+  {
+    "English": "bush",
+    "Edo": " Oha",
+    "English Sentences": "There is bush at the back of the house",
+    "Edo Sentences": " Oha re iyeke owa",
+    "English Translations": "bush is in back house"
+  },
+  {
+    "English": "but",
+    "Edo": " sokpan",
+    "English Sentences": "She is a girl but she can't dance",
+    "Edo Sentences": " Okhuo no sokpan e ghua gbe",
+    "English Translations": "Girl is but not able dance"
+  },
+  {
+    "English": "Butt, buttocks",
+    "Edo": " Onisan",
+    "English Sentences": "Big buttocks",
+    "Edo Sentences": " Onisan no kpolo",
+    "English Translations": "Buttocks is big"
+  },
+  {
+    "English": "by",
+    "Edo": "iokpen",
+    "English Sentences": "By the river",
+    "Edo Sentences": "iOpken eze",
+    "English Translations": "By river"
+  },
+  {
+    "English": "can",
+    "Edo": " kwe",
+    "English Sentences": "Are you able to jump?",
+    "Edo Sentences": " We kwe ghua shan?",
+    "English Translations": "You can able jump?"
+  },
+  {
+    "English": "can",
+    "Edo": " setin",
+    "English Sentences": "Ivie can do it",
+    "Edo Sentences": " Ivie setin we",
+    "English Translations": "Ivie can do"
+  },
+  {
+    "English": "Cane, Canes",
+    "Edo": " Asan",
+    "English Sentences": "Use the cane to chase the cow away from here",
+    "Edo Sentences": " Ye asan ya khue emila ye evbana re",
+    "English Translations": "Use cane to chase cow from here"
+  },
+  {
+    "English": "Canoe, Canoes",
+    "Edo": " Oko",
+    "English Sentences": "There are canoes in the market",
+    "Edo Sentences": " Oko re eki",
+    "English Translations": "Canoe is in market"
+  },
+  {
+    "English": "Car, Cars / Vehicles",
+    "Edo": " Imoto",
+    "English Sentences": "The schools has ten cars / vehicles",
+    "Edo Sentences": " Esuku mwen imoto igbe",
+    "English Translations": "School have cars ten"
+  },
+  {
+    "English": "careful",
+    "Edo": " heko",
+    "English Sentences": "Drive the car carefully",
+    "Edo Sentences": " Heko fi imoto",
+    "English Translations": "Careful drive car"
+  },
+  {
+    "English": "carry",
+    "Edo": " mu",
+    "English Sentences": "Carry my baby",
+    "Edo Sentences": " Mu omomo mwen",
+    "English Translations": "Carry baby my"
+  },
+  {
+    "English": "Cat",
+    "Edo": " Ovbieden",
+    "English Sentences": "The cat is in the kitchen",
+    "Edo Sentences": " Ovbieden re ukoni",
+    "English Translations": "Cat is in kitchen"
+  },
+  {
+    "English": "catch",
+    "Edo": " mu",
+    "English Sentences": "Catch that thief",
+    "Edo Sentences": " Mu oyi nii",
+    "English Translations": "Catch thief that"
+  },
+  {
+    "English": "cause",
+    "Edo": " sie",
+    "English Sentences": "Who caused or started the quarrel?",
+    "Edo Sentences": " Gha sie ezo?",
+    "English Translations": "Who cause quarrel?"
+  },
+  {
+    "English": "center, midst",
+    "Edo": " adesuwe",
+    "English Sentences": "There is a fly in the soup",
+    "Edo Sentences": " Ikian re adesuwe uwomwen",
+    "English Translations": "Fly is in the center/midst soup"
+  },
+  {
+    "English": "Chair, Chairs",
+    "Edo": " Aga",
+    "English Sentences": "Put/place the chair right here",
+    "Edo Sentences": " Mu aga ye evbana",
+    "English Translations": "Carry chair into/place right here"
+  },
+  {
+    "English": "change",
+    "Edo": " khien",
+    "English Sentences": "Water changes to steam",
+    "Edo Sentences": " Amen khien ighogho",
+    "English Translations": "Water change to smoke"
+  },
+  {
+    "English": "chase",
+    "Edo": " khue",
+    "English Sentences": "Chase the goat away from here",
+    "Edo Sentences": " Khue ewe ye evban ree",
+    "English Translations": "Chase/drive goat in here away  "
+  },
+  {
+    "English": "Chest, Chests",
+    "Edo": "iEwe",
+    "English Sentences": "His chest is out (big chest)",
+    "Edo Sentences": "iEwe ere wa ladian",
+    "English Translations": "Chest his very come out"
+  },
+  {
+    "English": "Chewing Stick (Wooden Toothbrush)",
+    "Edo": " Ukpakon",
+    "English Sentences": "This is Efe's chewing stick",
+    "Edo Sentences": " Ukpakon oghe Efe na khin",
+    "English Translations": "Chewing stick his/her Efe is this"
+  },
+  {
+    "English": "Chicken, Chickens",
+    "Edo": "iOkhokho",
+    "English Sentences": "Efe's Chicken",
+    "Edo Sentences": "iOkhokho oghe Efe",
+    "English Translations": "Chicken of Efe"
+  },
+  {
+    "English": "Child",
+    "Edo": "iOmo",
+    "English Sentences": "The beautiful child",
+    "Edo Sentences": "iOmo no mose",
+    "English Translations": "Child is beautiful"
+  },
+  {
+    "English": "Child of the same father",
+    "Edo": "iOvbierha",
+    "English Sentences": "Is this your sibling on the father side?",
+    "Edo Sentences": "iObvierha we na khin?",
+    "English Translations": "Sibling you is this?"
+  },
+  {
+    "English": "Child of the same mother",
+    "Edo": " Ovbiye"
+  },
+  {
+    "English": "Children",
+    "Edo": " Emo",
+    "English Sentences": "The children are sleeping",
+    "Edo Sentences": " Emo vbiere",
+    "English Translations": "Children sleep"
+  },
+  {
+    "English": "choose",
+    "Edo": " hano",
+    "English Sentences": "You choose your own",
+    "Edo Sentences": " We hano were",
+    "English Translations": "You choose yours"
+  },
+  {
+    "English": "chose",
+    "Edo": " ze",
+    "English Sentences": "The senior chooses first",
+    "Edo Sentences": "iOdion oka ze",
+    "English Translations": "Senior first chose"
+  },
+  {
+    "English": "clap",
+    "Edo": " kpobo",
+    "English Sentences": "Clap for Uyi",
+    "Edo Sentences": " Kpobo ne Uyi",
+    "English Translations": "Clap for Uyi"
+  },
+  {
+    "English": "clean",
+    "Edo": " khien",
+    "English Sentences": "Eki is cleaning the bag",
+    "Edo Sentences": "iEki khien ekpo",
+    "English Translations": "Eki clean bag"
+  },
+  {
+    "English": "Clock, Clocks",
+    "Edo": "iEgogo",
+    "English Sentences": "Put the clock over there",
+    "Edo Sentences": " Mu egogo ye evbani",
+    "English Translations": "Carry clock to over there"
+  },
+  {
+    "English": "close",
+    "Edo": " ghue",
+    "English Sentences": "Close that pot",
+    "Edo Sentences": " Ghue akhe nii",
+    "English Translations": "Close pot that"
+  },
+  {
+    "English": "Cloth, Clothes",
+    "Edo": " Ukpon",
+    "English Sentences": "Red cloth",
+    "Edo Sentences": " Ukpon no ba",
+    "English Translations": "Cloth that is red"
+  },
+  {
+    "English": "Cocoa yam, Coco yams",
+    "Edo": " Aka",
+    "English Sentences": "The cocoa yam is not well cooked",
+    "Edo Sentences": " Aka ma ga",
+    "English Translations": "Cocoa yam not done (well cooked)"
+  },
+  {
+    "English": "Coconut, Coconuts",
+    "Edo": " Ivin",
+    "English Sentences": "Use coconut water to drink garri",
+    "Edo Sentences": " Ye amen ivin ya won igaire",
+    "English Translations": "Use water coconut to drink garri"
+  },
+  {
+    "English": "coinceit (shakara)",
+    "Edo": " bebe",
+    "English Sentences": "This woman is too conceited",
+    "Edo Sentences": " Okhuo na bebe gbe",
+    "English Translations": "Woman this too conceited"
+  },
+  {
+    "English": "Comb, Combs",
+    "Edo": " Oyiya",
+    "English Sentences": "The comb is under the chair",
+    "Edo Sentences": " Oyiya re ototo aga",
+    "English Translations": "Comb is under chair"
+  },
+  {
+    "English": "Combing",
+    "Edo": " salo",
+    "English Sentences": "Osaze is combing his hair",
+    "Edo Sentences": " Osaze salo eto",
+    "English Translations": "Osaze comb hair"
+  },
+  {
+    "English": "come",
+    "Edo": " dee",
+    "English Sentences": "Osawe is coming",
+    "Edo Sentences": " Osawe dee",
+    "English Translations": "Osawe coming"
+  },
+  {
+    "English": "come",
+    "Edo": " lare",
+    "English Sentences": "Come here",
+    "Edo Sentences": " Lare evbana",
+    "English Translations": "Come right here"
+  },
+  {
+    "English": "come",
+    "Edo": " re",
+    "English Sentences": "Bring her",
+    "Edo Sentences": " Rrie ere re",
+    "English Translations": "Take her come"
+  },
+  {
+    "English": "come out",
+    "Edo": " ladian",
+    "English Sentences": "Leave there",
+    "Edo Sentences": " Ladian vbe evbani",
+    "English Translations": "Come out of over there"
+  },
+  {
+    "English": "Community, Communities",
+    "Edo": " Idun",
+    "English Sentences": "This is a good community",
+    "Edo Sentences": " Idun na wa ma",
+    "English Translations": "Community this very good"
+  },
+  {
+    "English": "completely",
+    "Edo": " fefefe",
+    "English Sentences": "She finished the food (completely)",
+    "Edo Sentences": "iO rrie evbaire fefefe",
+    "English Translations": "She ate food completely"
+  },
+  {
+    "English": "cook",
+    "Edo": " le ",
+    "English Sentences": "Cook the food",
+    "Edo Sentences": " Le evbaire",
+    "English Translations": "Cook food"
+  },
+  {
+    "English": "Corn",
+    "Edo": "iOka",
+    "English Sentences": "The farm is filled with corn",
+    "Edo Sentences": "iOka vbon ugbo",
+    "English Translations": "Corn full farm"
+  },
+  {
+    "English": "Cow, Cows",
+    "Edo": " Emila",
+    "English Sentences": "The cow is on the road",
+    "Edo Sentences": " Emila re ukpo",
+    "English Translations": "Cow on road"
+  },
+  {
+    "English": "Cream",
+    "Edo": " Ohi ",
+    "English Sentences": "It is Otaren's cream",
+    "Edo Sentences": " Ohi oghe Otaren no",
+    "English Translations": "Cream of Otaren it is"
+  },
+  {
+    "English": "create",
+    "Edo": " yi",
+    "English Sentences": "God created us all",
+    "Edo Sentences": " Osanobua o yi ma khia",
+    "English Translations": "God who created us all"
+  },
+  {
+    "English": "Crocodile, Crocodiles",
+    "Edo": " Agbaka",
+    "English Sentences": "The crocodile is inside the river",
+    "Edo Sentences": " Agbaka re uwe eze",
+    "English Translations": "Crocodile is inside the river"
+  },
+  {
+    "English": "cry",
+    "Edo": " vbie",
+    "English Sentences": "This woman is crying a lot",
+    "Edo Sentences": " Okhuo na wa vbie",
+    "English Translations": "Woman is very cry"
+  },
+  {
+    "English": "Cup, Cups",
+    "Edo": " Ukpu",
+    "English Sentences": "This cup is beautiful",
+    "Edo Sentences": " Ukpu na mose",
+    "English Translations": "Cup is beautiful"
+  },
+  {
+    "English": "Cutlass, Cutlasses",
+    "Edo": "iOpia",
+    "English Sentences": "Bring out the cutlass",
+    "Edo Sentences": " Mu opia ladian",
+    "English Translations": "Bring cutlass come out"
+  },
+  {
+    "English": "dance",
+    "Edo": " gbe",
+    "English Sentences": "Eki can dance very well",
+    "Edo Sentences": "iEki ghua wa gbe",
+    "English Translations": "Eki can very dance"
+  },
+  {
+    "English": "dance, dances",
+    "Edo": " ikuu",
+    "English Sentences": "Watch the dance",
+    "Edo Sentences": " Ghee ikuu",
+    "English Translations": "Look dance"
+  },
+  {
+    "English": "Day, Days",
+    "Edo": "iEde",
+    "English Sentences": "What day will you come?",
+    "Edo Sentences": " De ede nu dee?",
+    "English Translations": "What day will come?"
+  },
+  {
+    "English": "describe",
+    "Edo": " ghie",
+    "English Sentences": "Describe it to me",
+    "Edo Sentences": " Ghie ere ma mwen",
+    "English Translations": "Describe it to me"
+  },
+  {
+    "English": "digantic ",
+    "Edo": " digba",
+    "English Sentences": "This market is very very big or gigantic",
+    "Edo Sentences": " Eki na wa kakabo digba",
+    "English Translations": "Market this is gigantic"
+  },
+  {
+    "English": "Dirt",
+    "Edo": " Iku",
+    "English Sentences": "Sweep this dirt away from here",
+    "Edo Sentences": " Kpolo iku na ye evban ree",
+    "English Translations": "Sweep dirt this in here away"
+  },
+  {
+    "English": "dirty",
+    "Edo": " gbiwen",
+    "English Sentences": "This house is too dirty",
+    "Edo Sentences": " Owa na gbiwen gbe",
+    "English Translations": "House this dirty too much"
+  },
+  {
+    "English": "do",
+    "Edo": " kwe",
+    "English Sentences": "Do you run?",
+    "Edo Sentences": " We kwe rhule?",
+    "English Translations": "You do run?"
+  },
+  {
+    "English": "do",
+    "Edo": " rhu",
+    "English Sentences": "Are you able to do it?",
+    "Edo Sentences": " We ghua rhu ere?",
+    "English Translations": "You able do it?"
+  },
+  {
+    "English": "do",
+    "Edo": " we",
+    "English Sentences": "Do it now",
+    "Edo Sentences": " We nia",
+    "English Translations": "Do now"
+  },
+  {
+    "English": "do not",
+    "Edo": " ghe",
+    "English Sentences": "Do not jump",
+    "Edo Sentences": " Ghe ya shan",
+    "English Translations": "Do not go jump"
+  },
+  {
+    "English": "Dog, Dogs",
+    "Edo": " Ekita",
+    "English Sentences": "You all look at the dog",
+    "Edo Sentences": " Wa ghee ekita",
+    "English Translations": "You all look dog"
+  },
+  {
+    "English": "Door, Doors",
+    "Edo": "iEkhu",
+    "English Sentences": "Open this door",
+    "Edo Sentences": " Kie ekhu na",
+    "English Translations": "Open door this"
+  },
+  {
+    "English": "drink",
+    "Edo": " won",
+    "English Sentences": "Adesuwa is drinking water",
+    "Edo Sentences": " Adesuwa won amen",
+    "English Translations": "Adesuwa drink water"
+  },
+  {
+    "English": "Drink, Drinks",
+    "Edo": " Ayun",
+    "English Sentences": "Coca-cola is a drink",
+    "Edo Sentences": " Ayun ere ekoki khin",
+    "English Translations": "Drink is coca-cola this"
+  },
+  {
+    "English": "drive",
+    "Edo": " Fi",
+    "English Sentences": "Drive my car",
+    "Edo Sentences": " Fi imoto mwen",
+    "English Translations": "Drive car my"
+  },
+  {
+    "English": "drizzling",
+    "Edo": " filo",
+    "English Sentences": "It is drizzling outside",
+    "Edo Sentences": " Amen filo vbe ohe",
+    "English Translations": "Water drizzling at outside"
+  },
+  {
+    "English": "Drum For water",
+    "Edo": "iEgbedin",
+    "English Sentences": "Pour water into the drum",
+    "Edo Sentences": " Se amen ye egbedin",
+    "English Translations": "Pour water into drum"
+  },
+  {
+    "English": "Drum, Drums",
+    "Edo": " Ema",
+    "English Sentences": "Uyi is a good drummer",
+    "Edo Sentences": " Uyi ghua kpe ema",
+    "English Translations": "Uyi can play drum"
+  },
+  {
+    "English": "dry",
+    "Edo": " kakaka",
+    "English Sentences": "His body is very dry",
+    "Edo Sentences": " Egbe e wa ye kakaka",
+    "English Translations": "Body his very is dry"
+  },
+  {
+    "English": "Duck, Ducks",
+    "Edo": " Kpekpeye",
+    "English Sentences": "The duck is swimming in the river",
+    "Edo Sentences": " Kpekpeye khue vbe eze",
+    "English Translations": "Duck bath in river"
+  },
+  {
+    "English": "Ear, ears",
+    "Edo": "Eho",
+    "English Sentences": "Imade has pain in the ears",
+    "Edo Sentences": " Eho balo Imade",
+    "English Translations": "Ear paining Imade"
+  },
+  {
+    "English": "Ear-ring, Ear-rings",
+    "Edo": "Imieho",
+    "English Sentences": "My mother's ear-ring",
+    "Edo Sentences": " Imieho oghe iye mwen",
+    "English Translations": "Ear-ring of mother my"
+  },
+  {
+    "English": "eat",
+    "Edo": "rrie",
+    "English Sentences": "Edo is eating",
+    "Edo Sentences": "iEdo rrie evbaire",
+    "English Translations": "Edo eat food"
+  },
+  {
+    "English": "Egg, Eggs",
+    "Edo": "Ekonokho",
+    "English Sentences": "This is a chicken's egg",
+    "Edo Sentences": " Ekonokho oghe okhokho na khin",
+    "English Translations": "Egg of chicken is this"
+  },
+  {
+    "English": "Elder",
+    "Edo": "Enowanren",
+    "English Sentences": "This is an elder",
+    "Edo Sentences": " Enowanren na khin",
+    "English Translations": "Elder is this"
+  },
+  {
+    "English": "Elders",
+    "Edo": "Eniwanren",
+    "English Sentences": "Elders are many here",
+    "Edo Sentences": " Eniwanren bun vbe evbana",
+    "English Translations": "Elders many in here"
+  },
+  {
+    "English": "Elephant, Elephants",
+    "Edo": "Eni",
+    "English Sentences": "Elephants are in the bush",
+    "Edo Sentences": " Eni re oha",
+    "English Translations": "Elephant in bush"
+  },
+  {
+    "English": "enter",
+    "Edo": "la",
+    "English Sentences": "The rat entered the room",
+    "Edo Sentences": " Ofen la uhowa",
+    "English Translations": "Rat enter room"
+  },
+  {
+    "English": "exist, there is",
+    "Edo": "ro",
+    "English Sentences": "There is a God",
+    "Edo Sentences": " Osanobua ro",
+    "English Translations": "God exists"
+  },
+  {
+    "English": "Eye, Eyes",
+    "Edo": "Aro",
+    "English Sentences": "I have two eyes",
+    "Edo Sentences": " I mwen aro eva",
+    "English Translations": "I have eyes two"
+  },
+  {
+    "English": "faint",
+    "Edo": " kwo",
+    "English Sentences": "Idehen fainted",
+    "Edo Sentences": " Idehen kwo",
+    "English Translations": "Idehen faint"
+  },
+  {
+    "English": "fall",
+    "Edo": " de",
+    "English Sentences": "The comb fell on the ground",
+    "Edo Sentences": " Oyiya de fie oto",
+    "English Translations": "Comb fall unto ground"
+  },
+  {
+    "English": "Family, Families",
+    "Edo": "iEgbe",
+    "English Sentences": "Our family is here",
+    "Edo Sentences": "iEgbe ima re evbana",
+    "English Translations": "Family our in right here"
+  },
+  {
+    "English": "family's morning greeting",
+    "Edo": " layeru"
+  },
+  {
+    "English": "far",
+    "Edo": " re",
+    "English Sentences": "Our school is far",
+    "Edo Sentences": " Esuku ma re",
+    "English Translations": "School our far"
+  },
+  {
+    "English": "Farm, Farms",
+    "Edo": " Ugbo",
+    "English Sentences": "The farm is near the house",
+    "Edo Sentences": " Ugbo sike owa",
+    "English Translations": "Farm near house"
+  },
+  {
+    "English": "Father, Fathers",
+    "Edo": " Baba",
+    "English Sentences": "Father has one out",
+    "Edo Sentences": " Baba rie ohe",
+    "English Translations": "Father gone out"
+  },
+  {
+    "English": "Father, fathers",
+    "Edo": " Erha",
+    "English Sentences": "Edugie's father",
+    "Edo Sentences": " Erha Edugie",
+    "English Translations": "Father Edugie"
+  },
+  {
+    "English": "Female",
+    "Edo": " Okhuo",
+    "English Sentences": "Osasu got married yesterday",
+    "Edo Sentences": " Osasu rrie okhuo node",
+    "English Translations": "Osasu take female yesterday"
+  },
+  {
+    "English": "Female child",
+    "Edo": "iOmokhuo",
+    "English Sentences": "Where is your female child?",
+    "Edo Sentences": "iOmokhuo we vbo?",
+    "English Translations": "Female child you where?"
+  },
+  {
+    "English": "Find",
+    "Edo": " guwalo",
+    "English Sentences": "You find it for her",
+    "Edo Sentences": " We guwalo ne ere",
+    "English Translations": "You find for her"
+  },
+  {
+    "English": "fine",
+    "Edo": " mose",
+    "English Sentences": "This is a fine pen",
+    "Edo Sentences": " Eledi na mose",
+    "English Translations": "Pen this fine"
+  },
+  {
+    "English": "Finger, Fingers",
+    "Edo": " Ikpianobo",
+    "English Sentences": "Five fingers",
+    "Edo Sentences": " Ikpianoba isen",
+    "English Translations": "Fingers five"
+  },
+  {
+    "English": "finish",
+    "Edo": " fo",
+    "English Sentences": "The beans is finished",
+    "Edo Sentences": " Ehe fo ne",
+    "English Translations": "Beans finish is"
+  },
+  {
+    "English": "finish",
+    "Edo": "iofo",
+    "English Sentences": "It finished yesterday",
+    "Edo Sentences": "iOfo node",
+    "English Translations": "Finish yesterday"
+  },
+  {
+    "English": "first",
+    "Edo": "ioka",
+    "English Sentences": "You reached there first",
+    "Edo Sentences": " We oka se evba",
+    "English Translations": "You reach first there "
+  },
+  {
+    "English": "Fish, Fishes",
+    "Edo": " Ehen",
+    "English Sentences": "There are lots of fishes in the river",
+    "Edo Sentences": " Ehen bun vbe eze",
+    "English Translations": "Fish plenty in river"
+  },
+  {
+    "English": "Floor, Floors",
+    "Edo": " Oto",
+    "English Sentences": "There is water on the floor",
+    "Edo Sentences": " Amen re oto",
+    "English Translations": "Water on floor"
+  },
+  {
+    "English": "fly",
+    "Edo": " tin",
+    "English Sentences": "Cats do not fly",
+    "Edo Sentences": " Ovbieden e tin",
+    "English Translations": "Cat not fly"
+  },
+  {
+    "English": "Food",
+    "Edo": " Evbaire",
+    "English Sentences": "The food is not done/ready",
+    "Edo Sentences": " Evbaire ma ga",
+    "English Translations": "Food not done"
+  },
+  {
+    "English": "for",
+    "Edo": " na",
+    "English Sentences": "Spoon for serving soup",
+    "Edo Sentences": " Ekuye na ya se uwomwen",
+    "English Translations": "Spoon for used serve soup"
+  },
+  {
+    "English": "for",
+    "Edo": " ne",
+    "English Sentences": "Kneel down for mother",
+    "Edo Sentences": " Digue ne iye",
+    "English Translations": "Kneel for mother"
+  },
+  {
+    "English": "for ",
+    "Edo": " ni",
+    "English Sentences": "Clothes used for sleeping",
+    "Edo Sentences": " Ewe ni ya vbiere",
+    "English Translations": "Clothes for use sleep"
+  },
+  {
+    "English": "forward",
+    "Edo": " odaro",
+    "English Sentences": "Let us go forward",
+    "Edo Sentences": " Ghi ma la ghe odaro",
+    "English Translations": "Let us go to forward"
+  },
+  {
+    "English": "free",
+    "Edo": "iohe",
+    "English Sentences": "Give her a free cloth",
+    "Edo Sentences": " Rrie ukpon ohe ne",
+    "English Translations": "Give cloth free her"
+  },
+  {
+    "English": "Friend, Friends",
+    "Edo": "iOse",
+    "English Sentences": "Osawe is a friend of Usi",
+    "Edo Sentences": "iOse Usi ere Osawe khin",
+    "English Translations": "Friend Usi his Osawe it is"
+  },
+  {
+    "English": "front",
+    "Edo": " odaro",
+    "English Sentences": "Front of cloth",
+    "Edo Sentences": " Odaro ewu",
+    "English Translations": "Front cloth"
+  },
+  {
+    "English": "full",
+    "Edo": " vbon",
+    "English Sentences": "My belly is full",
+    "Edo Sentences": "iEko vbon mwen",
+    "English Translations": "Belly full my"
+  },
+  {
+    "English": "Garri / Cassava",
+    "Edo": " Igaire",
+    "English Sentences": "Put salt in the garri / cassava",
+    "Edo Sentences": " Ze umwen ye igaire",
+    "English Translations": "Put salt in garri / cassava"
+  },
+  {
+    "English": "gather",
+    "Edo": " koko",
+    "English Sentences": "You all gather the corn",
+    "Edo Sentences": " Wa koko oka",
+    "English Translations": "You all gather corn"
+  },
+  {
+    "English": "gently",
+    "Edo": " feko",
+    "English Sentences": "You do it gently",
+    "Edo Sentences": " We feko we ere",
+    "English Translations": "You gently do it"
+  },
+  {
+    "English": "Children",
+    "Edo": " Ivbie",
+    "English Sentences": "Osaretin's children",
+    "Edo Sentences": " Ivbie Osaretin",
+    "English Translations": "Children Osaretin"
+  },
+  {
+    "English": "Gift, Gifts",
+    "Edo": "iEse",
+    "English Sentences": "This is the gift of God",
+    "Edo Sentences": "iEse oghe osa na khin",
+    "English Translations": "Gift of God is this"
+  },
+  {
+    "English": "give",
+    "Edo": " rrie",
+    "English Sentences": "Give her the cup",
+    "Edo Sentences": " Rrie ukpu ne",
+    "English Translations": "Give cup her"
+  },
+  {
+    "English": "Glass, Glasses",
+    "Edo": "iOgo",
+    "English Sentences": "Place the glass on the table",
+    "Edo Sentences": " Mu ogo ye etebu",
+    "English Translations": "Place glass on table"
+  },
+  {
+    "English": "go",
+    "Edo": " la",
+    "English Sentences": "Go outside",
+    "Edo Sentences": " La ohe",
+    "English Translations": "Go out"
+  },
+  {
+    "English": "go",
+    "Edo": " rie",
+    "English Sentences": "Idehen has gone or is going to the river",
+    "Edo Sentences": " Idehen rie eze",
+    "English Translations": "Idehen go river"
+  },
+  {
+    "English": "go",
+    "Edo": " ya",
+    "English Sentences": "Go take a bath",
+    "Edo Sentences": " Ya khure",
+    "English Translations": "Go bath"
+  },
+  {
+    "English": "go forth",
+    "Edo": " yo",
+    "English Sentences": "He/she goes to school",
+    "Edo Sentences": "iO yo esuku",
+    "English Translations": "He/she go school"
+  },
+  {
+    "English": "Goat, Goats",
+    "Edo": "iEwe",
+    "English Sentences": "The goat ate the leaves",
+    "Edo Sentences": "iEwe rrie ebe",
+    "English Translations": "Goat eat leaf"
+  },
+  {
+    "English": "God",
+    "Edo": " Oghodua",
+    "English Sentences": "God is all things",
+    "Edo Sentences": " Emwin hia o e Oghodua",
+    "English Translations": "Things all who is God"
+  },
+  {
+    "English": "God",
+    "Edo": " Osanobua",
+    "English Sentences": "God is too good",
+    "Edo Sentences": " Osanobua ma gbe",
+    "English Translations": "God good too much"
+  },
+  {
+    "English": "going",
+    "Edo": " khian",
+    "English Sentences": "Idehen is going",
+    "Edo Sentences": " Idehen khian ",
+    "English Translations": "Idehen going"
+  },
+  {
+    "English": "good",
+    "Edo": " ma ",
+    "English Sentences": "This rice is very good",
+    "Edo Sentences": " Ize na wa ma",
+    "English Translations": "Rice this very good"
+  },
+  {
+    "English": "good afternoon",
+    "Edo": "iobavan",
+    "English Sentences": "Good afternoon everyone",
+    "Edo Sentences": " Wa hia obavan",
+    "English Translations": "You all good afternoon"
+  },
+  {
+    "English": "good afternoon (plural)",
+    "Edo": " wabavan",
+    "English Sentences": "Good afternoon teachers",
+    "Edo Sentences": " Wabavan etisa",
+    "English Translations": "Good afternoon teachers"
+  },
+  {
+    "English": "good evening",
+    "Edo": "iobota",
+    "English Sentences": "Good evening my friend",
+    "Edo Sentences": "iObota ose mwen",
+    "English Translations": "Good evening friend my"
+  },
+  {
+    "English": "good evening (plural)",
+    "Edo": " wabota",
+    "English Sentences": "Good evening elders",
+    "Edo Sentences": " Wabota eniwanren",
+    "English Translations": "Good evening elders"
+  },
+  {
+    "English": "good morning",
+    "Edo": "iobowie",
+    "English Sentences": "Good morning Uyi",
+    "Edo Sentences": "iObowie Uyi",
+    "English Translations": "Good morning Uyi"
+  },
+  {
+    "English": "good morning (plural)",
+    "Edo": " wabowie",
+    "Edo Sentences": " Wabowie etisa",
+    "English Translations": "Good morning teachers"
+  },
+  {
+    "English": "Grand Father, Grand fathers",
+    "Edo": " Erha nokhua",
+    "English Sentences": "Grand father is coming",
+    "Edo Sentences": " Erha nokhua dee",
+    "English Translations": "Father Grand is coming"
+  },
+  {
+    "English": "Grand Mother, Grand Mothers",
+    "Edo": " Iye nokhua",
+    "English Sentences": "Grand mother is in the house",
+    "Edo Sentences": " Iye nokhua re owa",
+    "English Translations": "Mother grand in house"
+  },
+  {
+    "English": "Grass, Grasses",
+    "Edo": " Ikhun",
+    "English Sentences": "There is too much grass in this farm",
+    "Edo Sentences": " Ikhun wa bun vbe ugbo na",
+    "English Translations": "Grass very many in farm this"
+  },
+  {
+    "English": "greeting an elder after a meal",
+    "Edo": " kada"
+  },
+  {
+    "English": "greeting for an elder",
+    "Edo": " domo",
+    "English Sentences": "Elder, I greet you",
+    "Edo Sentences": " Domo enowanren",
+    "English Translations": "greetings elder"
+  },
+  {
+    "English": "greeting to the one at home",
+    "Edo": "iobowa",
+    "English Sentences": "Happy stay at home father",
+    "Edo Sentences": "iObowa Baba",
+    "English Translations": "Happy stay at home father"
+  },
+  {
+    "English": "greetings to those at home",
+    "Edo": " wabowa",
+    "English Sentences": "Happy stay at home siblings",
+    "Edo Sentences": " Wabowa eten",
+    "English Translations": "Happy stay at home siblings"
+  },
+  {
+    "English": "Grey hair",
+    "Edo": " Ede",
+    "English Sentences": "That woman has lots of grey hair",
+    "Edo Sentences": " Ede bun vbe eto oghe okhuo nii",
+    "English Translations": "Grey hair plenty in hair of woman that"
+  },
+  {
+    "English": "Ground, Grounds",
+    "Edo": " Oto",
+    "English Sentences": "There is a book on the ground",
+    "Edo Sentences": " Ebe re oto",
+    "English Translations": "Book on ground"
+  },
+  {
+    "English": "Groundnut, Peanut",
+    "Edo": " Isiawe",
+    "English Sentences": "Groundnut and garri",
+    "Edo Sentences": " Isaiwe kevbe igaire",
+    "English Translations": "Groundnut and garri"
+  },
+  {
+    "English": "Gun, Guns",
+    "Edo": " Osisi",
+    "English Sentences": "Take the gun to the bush",
+    "Edo Sentences": " Rrie osisi gha rie oha",
+    "English Translations": "Take gun to go bush"
+  },
+  {
+    "English": "Hair tie/scarf",
+    "Edo": " Ukiofon",
+    "English Sentences": "The scarf is on the chair",
+    "Edo Sentences": " Ukiofon re aga",
+    "English Translations": "Scarf on chair"
+  },
+  {
+    "English": "Hair, Hairs",
+    "Edo": " Eto",
+    "English Sentences": "Long hair",
+    "Edo Sentences": " Eto no tan",
+    "English Translations": "Hair that long"
+  },
+  {
+    "English": "Hand, Hands",
+    "Edo": " Obo",
+    "English Sentences": "Bring your hand",
+    "Edo Sentences": " Rrie obo re",
+    "English Translations": "Bring hand come"
+  },
+  {
+    "English": "happen",
+    "Edo": " sunu",
+    "English Sentences": "What is happening or what happened?",
+    "Edo Sentences": " Vbo sunu?",
+    "English Translations": "What happen?"
+  },
+  {
+    "English": "has",
+    "Edo": " ne",
+    "English Sentences": "Have you swept?",
+    "Edo Sentences": " We kpolo ne?",
+    "English Translations": "You sweep have?"
+  },
+  {
+    "English": "have",
+    "Edo": " mwen",
+    "English Sentences": "I have shirts",
+    "Edo Sentences": " I mwen ewu",
+    "English Translations": "I have shirt"
+  },
+  {
+    "English": "he",
+    "Edo": "io",
+    "English Sentences": "He is going",
+    "Edo Sentences": "iO khian",
+    "English Translations": "He go"
+  },
+  {
+    "English": "Head, Heads",
+    "Edo": " Uhun",
+    "English Sentences": "There is hair on Eghe's head",
+    "Edo Sentences": " Eto re uhun oghe Eghe",
+    "English Translations": "Hair on head of Eghe"
+  },
+  {
+    "English": "hear",
+    "Edo": " hoen",
+    "English Sentences": "Can you hear?",
+    "Edo Sentences": " We kwe hoen?",
+    "English Translations": "You can hear?"
+  },
+  {
+    "English": "Heaven, Heavens",
+    "Edo": " Iso",
+    "English Sentences": "The heavens is gigantic",
+    "Edo Sentences": " Iso wa digba",
+    "English Translations": "Heavens very gigantic"
+  },
+  {
+    "English": "heavy",
+    "Edo": "iokhua ",
+    "English Sentences": "Heavy table",
+    "Edo Sentences": " Etebu ne okhua",
+    "English Translations": "Table is heavy"
+  },
+  {
+    "English": "hello",
+    "Edo": " koyo",
+    "English Sentences": "Hello mother",
+    "Edo Sentences": " Koyo Iye",
+    "English Translations": "Hello mother"
+  },
+  {
+    "English": "help",
+    "Edo": " gue",
+    "English Sentences": "You all help him do it",
+    "Edo Sentences": " Wa gue ere we ere",
+    "English Translations": "You all help him do it "
+  },
+  {
+    "English": "her",
+    "Edo": "ie"
+  },
+  {
+    "English": "her",
+    "Edo": " ne",
+    "English Sentences": "Give her the pen",
+    "Edo Sentences": " Rrie eledi ne",
+    "English Translations": "Give pen her"
+  },
+  {
+    "English": "her",
+    "Edo": "ioghe",
+    "English Sentences": "Her scarf",
+    "Edo Sentences": " Ukiofun oghe",
+    "English Translations": "Scarf her "
+  },
+  {
+    "English": "here",
+    "Edo": " evban",
+    "English Sentences": "Stand here",
+    "Edo Sentences": " Mudia ye evban",
+    "English Translations": "Stand on here"
+  },
+  {
+    "English": "here",
+    "Edo": "ie"
+  },
+  {
+    "English": "here",
+    "Edo": "iere",
+    "English Sentences": "Her shirt",
+    "Edo Sentences": "iEwu ere",
+    "English Translations": "Shirt her"
+  },
+  {
+    "English": "here",
+    "Edo": " re",
+    "English Sentences": "Run here",
+    "Edo Sentences": " Rhule re",
+    "English Translations": "Run here"
+  },
+  {
+    "English": "hide",
+    "Edo": " lehe",
+    "English Sentences": "Osato is hiding under the table",
+    "Edo Sentences": " Osato lehe ye ototo etabu",
+    "English Translations": "Osato hide in under table"
+  },
+  {
+    "English": "him",
+    "Edo": "ie"
+  },
+  {
+    "English": "him",
+    "Edo": "iere",
+    "English Sentences": "His clothes",
+    "Edo Sentences": " Ukpon ere",
+    "English Translations": "Clothes his"
+  },
+  {
+    "English": "him",
+    "Edo": " ne",
+    "English Sentences": "Give him the clock",
+    "Edo Sentences": " Rrie egogo ne",
+    "English Translations": "Give clock him/her"
+  },
+  {
+    "English": "his",
+    "Edo": "ioghe",
+    "English Sentences": "It is his",
+    "Edo Sentences": "iOghe no",
+    "English Translations": "His it is"
+  },
+  {
+    "English": "hit",
+    "Edo": " fie",
+    "English Sentences": "Hit him",
+    "Edo Sentences": " Fie ere emwin",
+    "English Translations": "Hit him thing"
+  },
+  {
+    "English": "Hoe, Hoes",
+    "Edo": " Aho",
+    "English Sentences": "The hoe is in the farm",
+    "Edo Sentences": " Aho re ugbo",
+    "English Translations": "Hoe is in farm"
+  },
+  {
+    "English": "hold on",
+    "Edo": " ziengbe",
+    "English Sentences": "Wait till tomorrow",
+    "Edo Sentences": " Ziengbe khe akhue",
+    "English Translations": "Hold on for tomorrow"
+  },
+  {
+    "English": "Hole, Holes",
+    "Edo": " Uvun",
+    "English Sentences": "The rat ran into the hole",
+    "Edo Sentences": " Ofen rhule la uvun",
+    "English Translations": "Rat run in hole"
+  },
+  {
+    "English": "hope",
+    "Edo": " adeghe",
+    "English Sentences": "I hope you will come tomorrow",
+    "Edo Sentences": " Adeghe u dee vbe akhue",
+    "English Translations": "hope you come tomorrow"
+  },
+  {
+    "English": "Horse, Horses",
+    "Edo": "iEsin",
+    "English Sentences": "Horses can run",
+    "Edo Sentences": "iEsin ghua rhule",
+    "English Translations": "Horse able run"
+  },
+  {
+    "English": "House",
+    "Edo": " Owa",
+    "English Sentences": "This is the house of God",
+    "Edo Sentences": " Owa oghe Osanobua na khin",
+    "English Translations": "House of God is this"
+  },
+  {
+    "English": "how",
+    "Edo": " vbo",
+    "English Sentences": "How is this done? How do you do this?",
+    "Edo Sentences": " Vbo a ya wo na he?",
+    "English Translations": "How to do is this"
+  },
+  {
+    "English": "how are you?",
+    "Edo": " vbo ye he?",
+    "English Sentences": "Usi, how are you?",
+    "Edo Sentences": " Usi vbo ye he?",
+    "English Translations": "Usi how you are?"
+  },
+  {
+    "English": "Husband, Husbands",
+    "Edo": "iOdo",
+    "English Sentences": "Where is my husband?",
+    "Edo Sentences": "iOdo mwen vbo?",
+    "English Translations": "Husband my where?"
+  },
+  {
+    "English": "I",
+    "Edo": " I",
+    "English Sentences": "I can run",
+    "Edo Sentences": " I ghua rhule ",
+    "English Translations": "I can run"
+  },
+  {
+    "English": "I am fine",
+    "Edo": "ioyese"
+  },
+  {
+    "English": "immediately",
+    "Edo": " babana",
+    "English Sentences": "Bring that bag immediately",
+    "Edo Sentences": " Mu ekpo nii re babana",
+    "English Translations": "Carry bag that here immediately"
+  },
+  {
+    "English": "in",
+    "Edo": " vbe",
+    "English Sentences": "In school",
+    "Edo Sentences": " Vbe esuku",
+    "English Translations": "In school"
+  },
+  {
+    "English": "in",
+    "Edo": " ye",
+    "English Sentences": "In here",
+    "Edo Sentences": " ye evban",
+    "English Translations": "In here"
+  },
+  {
+    "English": "in, into",
+    "Edo": " la",
+    "English Sentences": "The snake ran in the river",
+    "Edo Sentences": "iEyen le la eze",
+    "English Translations": "Snake run in river"
+  },
+  {
+    "English": "Infants",
+    "Edo": " Ibieka",
+    "English Sentences": "These three infants",
+    "Edo Sentences": " Ibieka eha na",
+    "English Translations": "Infants three this"
+  },
+  {
+    "English": "Insect, Insects",
+    "Edo": " Ehenmwen",
+    "English Sentences": "There are many insects",
+    "Edo Sentences": " Ehenmwen bun",
+    "English Translations": "Insects many"
+  },
+  {
+    "English": "inside",
+    "Edo": " wuwere",
+    "English Sentences": "The rat ran inside the ground",
+    "Edo Sentences": " Ofen le la wuwere oto",
+    "English Translations": "Rat ran into inside ground "
+  },
+  {
+    "English": "into",
+    "Edo": " fie",
+    "English Sentences": "Take the chair into the river",
+    "Edo Sentences": " Mu aga fie eze",
+    "English Translations": "Carry chair into river"
+  },
+  {
+    "English": "into",
+    "Edo": " fio",
+    "English Sentences": "Uyi fell into the river",
+    "Edo Sentences": " Uyi de fio eze",
+    "English Translations": "Uyi fell into river"
+  },
+  {
+    "English": "Into",
+    "Edo": " ye",
+    "English Sentences": "Into the river",
+    "Edo Sentences": " ye eze",
+    "English Translations": "Into river"
+  },
+  {
+    "English": "is",
+    "Edo": " a",
+    "English Sentences": "A cup is used to pour water",
+    "Edo Sentences": " Upku a ya se amen",
+    "English Translations": "Cup is use pour water"
+  },
+  {
+    "English": "is",
+    "Edo": " e",
+    "English Sentences": "Idehen is the senior",
+    "Edo Sentences": " Idehen o e odion",
+    "English Translations": "Idehen who is senior"
+  },
+  {
+    "English": "is",
+    "Edo": " na",
+    "English Sentences": "This is a goat",
+    "Edo Sentences": "iEwe na khin",
+    "English Translations": "Goat is this"
+  },
+  {
+    "English": "is",
+    "Edo": "io",
+    "English Sentences": "Unity is strength",
+    "Edo Sentences": " Akugbe o etin",
+    "English Translations": "Unity is strength"
+  },
+  {
+    "English": "is",
+    "Edo": " ye",
+    "English Sentences": "Is here",
+    "Edo Sentences": " ye evban",
+    "English Translations": "Is here"
+  },
+  {
+    "English": "is in",
+    "Edo": " re",
+    "English Sentences": "Is in here",
+    "Edo Sentences": " Re evba",
+    "English Translations": "Is in here"
+  },
+  {
+    "English": "it",
+    "Edo": "iere",
+    "English Sentences": "Do it",
+    "Edo Sentences": " We ere",
+    "English Translations": "Do it"
+  },
+  {
+    "English": "It is",
+    "Edo": " khin",
+    "English Sentences": "It is a shirt",
+    "Edo Sentences": "iEwu na khin",
+    "English Translations": "Shirt it is"
+  },
+  {
+    "English": "it is",
+    "Edo": " ne",
+    "English Sentences": "It is finished",
+    "Edo Sentences": "iOfo ne",
+    "English Translations": "Finish it is"
+  },
+  {
+    "English": "It is",
+    "Edo": " no",
+    "English Sentences": "It is Osawe",
+    "Edo Sentences": " Osawe no",
+    "English Translations": "Osawe It is"
+  },
+  {
+    "English": "It is good",
+    "Edo": "ioma",
+    "English Sentences": "It is good there",
+    "Edo Sentences": "iOma vbe evba",
+    "English Translations": "It is good in there"
+  },
+  {
+    "English": "Jaw, Jaws",
+    "Edo": "Agbamwen",
+    "English Sentences": "This is a jaw",
+    "Edo Sentences": "Agbamwen na khin",
+    "English Translations": "Jaw is this"
+  },
+  {
+    "English": "join",
+    "Edo": "deba",
+    "English Sentences": "You all should join me",
+    "Edo Sentences": "Wa deba mwen",
+    "English Translations": "You all join me"
+  },
+  {
+    "English": "journey",
+    "Edo": "ehe",
+    "English Sentences": "My mother has gone on a journey",
+    "Edo Sentences": "Iye mwen rie ehe",
+    "English Translations": "Mother my gone journey"
+  },
+  {
+    "English": "jump",
+    "Edo": "shan",
+    "English Sentences": "Jump upwards",
+    "Edo Sentences": "Shan ye ode ukhun",
+    "English Translations": "Jump on way up"
+  },
+  {
+    "English": "Junior Twin",
+    "Edo": "Ovbiokhan",
+    "English Sentences": "Imade is the junior one",
+    "Edo Sentences": "Ovbiokhan Imade khin",
+    "English Translations": "Junior Imade is"
+  },
+  {
+    "English": "Key, Keys",
+    "Edo": " Isiaren",
+    "English Sentences": "Kitchen keys",
+    "Edo Sentences": " Isiaren oghe ukoni",
+    "English Translations": "Keys of kitchen"
+  },
+  {
+    "English": "King",
+    "Edo": "iOba",
+    "English Sentences": "Our King",
+    "Edo Sentences": "iOba oghe ma",
+    "English Translations": "King of us"
+  },
+  {
+    "English": "Kitchen, Kitchens",
+    "Edo": " Ukoni",
+    "English Sentences": "Is this a kitchen?",
+    "Edo Sentences": " Ukoni na khin?",
+    "English Translations": "Kitchen is this? "
+  },
+  {
+    "English": "Knee, Knees",
+    "Edo": " Igbon",
+    "English Sentences": "Kneel on the ground",
+    "Edo Sentences": " Mu igbon ye oto",
+    "English Translations": "Put knee on ground"
+  },
+  {
+    "English": "kneel",
+    "Edo": " dighue",
+    "English Sentences": "They knelt down for the elders",
+    "Edo Sentences": " Iyan dighue ne eniwanren",
+    "English Translations": "They knelt for elders"
+  },
+  {
+    "English": "Knife, Knives",
+    "Edo": " Eho",
+    "English Sentences": "The small knife",
+    "Edo Sentences": " Eho ne khere",
+    "English Translations": "Knife the small"
+  },
+  {
+    "English": "know",
+    "Edo": " hen",
+    "English Sentences": "He/she is book smart (intelligent)",
+    "Edo Sentences": "iO hen ebe",
+    "English Translations": "He/she know book"
+  },
+  {
+    "English": "Kolanut, Kolanuts",
+    "Edo": "iEvbe",
+    "English Sentences": "The old woman is eating kolanut",
+    "Edo Sentences": " Edede rrie evbe",
+    "English Translations": "Old woman eat kolanut"
+  },
+  {
+    "English": "Lair",
+    "Edo": "iOhonoghe",
+    "English Sentences": "This house is full of lairs",
+    "Edo Sentences": "iOhonoghe vbon owa na",
+    "English Translations": "Lair full house this"
+  },
+  {
+    "English": "language spoken in Nigeria",
+    "Edo": "iEdo",
+    "English Sentences": "Do you children speak Edo?",
+    "Edo Sentences": " Ivbie uwa kwe zee Edo?",
+    "English Translations": "children your do speak Edo?"
+  },
+  {
+    "English": "last",
+    "Edo": " too",
+    "English Sentences": "That elder lived very long",
+    "Edo Sentences": " Enowanren ni wa too",
+    "English Translations": "Elder that very last (live long)"
+  },
+  {
+    "English": "Laugh",
+    "Edo": " gie",
+    "English Sentences": "Osagie is laughing a lot",
+    "Edo Sentences": " Osagie wa gie",
+    "English Translations": "Osagie very laugh"
+  },
+  {
+    "English": "laughter",
+    "Edo": " ogie",
+    "English Sentences": "There is too much laugher",
+    "Edo Sentences": " Ogie bun gbe",
+    "English Translations": "laughter plenty too much"
+  },
+  {
+    "English": "Leaf, Leaves",
+    "Edo": " Ebe",
+    "English Sentences": "Pluck the leaf",
+    "Edo Sentences": " Kolo ebe",
+    "English Translations": "Pluck leaf"
+  },
+  {
+    "English": "Leg, Legs",
+    "Edo": " Owe",
+    "English Sentences": "Itohan's leg is longer than her body",
+    "Edo Sentences": " Owe Itohan tan se egbe ere",
+    "English Translations": "Leg Itohan long than body her"
+  },
+  {
+    "English": "Let",
+    "Edo": " ghi",
+    "English Sentences": "Let us run",
+    "Edo Sentences": " Ghi ma rhule",
+    "English Translations": "let us run"
+  },
+  {
+    "English": "let us",
+    "Edo": " ghia",
+    "English Sentences": "let us sweep",
+    "Edo Sentences": " Ghia kpolo",
+    "English Translations": "Let us sweep"
+  },
+  {
+    "English": "lick",
+    "Edo": " lalo",
+    "English Sentences": "Isiuwa is licking the spoon",
+    "Edo Sentences": " Isiuwa lalo ekuye",
+    "English Translations": "Isiuwa lick spoon"
+  },
+  {
+    "English": "lie",
+    "Edo": " ohoghe",
+    "English Sentences": "You tell lies a lot",
+    "Edo Sentences": " U ta ohoghe gbe",
+    "English Translations": "You tell lies too much"
+  },
+  {
+    "English": "lie down",
+    "Edo": " lovbie",
+    "English Sentences": "Lie on the bed",
+    "Edo Sentences": " Lovbie ye ukpo",
+    "English Translations": "Lie down on bed"
+  },
+  {
+    "English": "life, lives",
+    "Edo": " agbon",
+    "English Sentences": "This life is very good",
+    "Edo Sentences": " Agbon na wa ma",
+    "English Translations": "Life this is very good "
+  },
+  {
+    "English": "Light",
+    "Edo": " Ukpa",
+    "English Sentences": "This light is not very bright",
+    "Edo Sentences": " Ukpa na e kakabo ba",
+    "English Translations": "Light this not very bright"
+  },
+  {
+    "English": "like",
+    "Edo": " ye",
+    "English Sentences": "I like plantain",
+    "Edo Sentences": " Oghede ye mwen",
+    "English Translations": "Plantain like me"
+  },
+  {
+    "English": "Lion, Lions",
+    "Edo": " Oduma",
+    "English Sentences": "The Lion ate the goat",
+    "Edo Sentences": " Oduma rrie ewe",
+    "English Translations": "Lion eat goat"
+  },
+  {
+    "English": "little boy",
+    "Edo": " Ovbiokhan okpia"
+  },
+  {
+    "English": "little child",
+    "Edo": " Ovbiokhan",
+    "English Sentences": "The little child is sleeping on the bed",
+    "Edo Sentences": " Ovbiokhan vbiere vbe ukpo",
+    "English Translations": "Little child sleep on bed"
+  },
+  {
+    "English": "little girl",
+    "Edo": " Ovbiokhan okhuo"
+  },
+  {
+    "English": "Lizard, Lizards",
+    "Edo": " Esikpalo",
+    "English Sentences": "The lizard ran into the house",
+    "Edo Sentences": " Esikpalo le la owa",
+    "English Translations": "Lizard ran into house"
+  },
+  {
+    "English": "location reference",
+    "Edo": " vbe",
+    "English Sentences": "Where is the venue?",
+    "Edo Sentences": " Vbe eke no khin?",
+    "English Translations": "Where place is this?"
+  },
+  {
+    "English": "long",
+    "Edo": " tan",
+    "English Sentences": "Long rope",
+    "Edo Sentences": " Irri no tan",
+    "English Translations": "Rope that long"
+  },
+  {
+    "English": "Look",
+    "Edo": " ghee",
+    "English Sentences": "Look at the gun",
+    "Edo Sentences": " Ghee osisi",
+    "English Translations": "Look gun"
+  },
+  {
+    "English": "luggage, Luggages",
+    "Edo": "iEkpeti",
+    "English Sentences": "There are three luggages on the chair",
+    "Edo Sentences": "iEkpeti eha re aga",
+    "English Translations": "Luggage three on chair"
+  },
+  {
+    "English": "Male",
+    "Edo": " Okpia",
+    "English Sentences": "This is a male (man)",
+    "Edo Sentences": " Okpia na khin",
+    "English Translations": "Male is this"
+  },
+  {
+    "English": "Male child",
+    "Edo": "iOmokpia",
+    "English Sentences": "This is a male child",
+    "Edo Sentences": "iOmokpia na khin",
+    "English Translations": "Male child is this"
+  },
+  {
+    "English": "Man",
+    "Edo": " Okpioba",
+    "English Sentences": "Ehi is a man",
+    "Edo Sentences": " Okpiaoba Ehi khin",
+    "English Translations": "Man Ehi it is"
+  },
+  {
+    "English": "Market, Markets",
+    "Edo": "iEki",
+    "English Sentences": "There is food in the market",
+    "Edo Sentences": " Evbaire re eki",
+    "English Translations": "Food in market"
+  },
+  {
+    "English": "marry",
+    "Edo": "iomwen",
+    "English Sentences": "Uwa married Ehi",
+    "Edo Sentences": " Uwa omwen Ehi",
+    "English Translations": "Uwa marry Ehi"
+  },
+  {
+    "English": "Mat, Mats",
+    "Edo": " Owa",
+    "English Sentences": "The mat is behind the door",
+    "Edo Sentences": " Owa re iyeke ekhu",
+    "English Translations": "Mat is in back door"
+  },
+  {
+    "English": "Maternal female relatives",
+    "Edo": "iOtenerha nokhuo"
+  },
+  {
+    "English": "Maternal male relatives",
+    "Edo": "iOteniye nopkia"
+  },
+  {
+    "English": "me",
+    "Edo": " me",
+    "English Sentences": "This is me",
+    "Edo Sentences": " Me na khin",
+    "English Translations": "Me is this"
+  },
+  {
+    "English": "Meat",
+    "Edo": " Imiowo",
+    "English Sentences": "The bush is filled with meat",
+    "Edo Sentences": " Imiowo vbon oha",
+    "English Translations": "Meat full bush"
+  },
+  {
+    "English": "Men",
+    "Edo": " Ikpia",
+    "English Sentences": "We are men",
+    "Edo Sentences": " Ikpia ma khin",
+    "English Translations": "Men we are"
+  },
+  {
+    "English": "middle",
+    "Edo": " adiseneva",
+    "English Sentences": "Stand in the middle of these women",
+    "Edo Sentences": " Mudia ye adiseneva oghe ikhuo nii",
+    "English Translations": "Stand in the middle of women these"
+  },
+  {
+    "English": "mighty",
+    "Edo": "iokhua ",
+    "English Sentences": "A mighty house",
+    "Edo Sentences": " Owa ne okhua",
+    "English Translations": "House is mighty"
+  },
+  {
+    "English": "Money",
+    "Edo": " Igho",
+    "English Sentences": "This is plenty of money",
+    "Edo Sentences": " Igho na bun",
+    "English Translations": "Money this many"
+  },
+  {
+    "English": "Moon",
+    "Edo": " Uki",
+    "English Sentences": "This moon is big",
+    "Edo Sentences": " Uki na digba ",
+    "English Translations": "Moon this big"
+  },
+  {
+    "English": "Mother, Mothers",
+    "Edo": " Iye",
+    "English Sentences": "My mother works at school",
+    "Edo Sentences": " Iye mwen winna vbe esuku",
+    "English Translations": "Mother my work at school "
+  },
+  {
+    "English": "Mouth, Mouths",
+    "Edo": " Unu",
+    "English Sentences": "Close your mouth",
+    "Edo Sentences": " Ghue unu were",
+    "English Translations": "Close mouth your"
+  },
+  {
+    "English": "my",
+    "Edo": " mwen",
+    "English Sentences": "My book",
+    "Edo Sentences": " Ebe mwen",
+    "English Translations": "Book my"
+  },
+  {
+    "English": "Nail, Nails",
+    "Edo": " Iyien",
+    "English Sentences": "Otaren's nails are very long",
+    "Edo Sentences": " Iyien oghe Otaren wa tan",
+    "English Translations": "Nails of Otaren very long"
+  },
+  {
+    "English": "Navel, Navels",
+    "Edo": " Ukhon",
+    "English Sentences": "This is my navel",
+    "Edo Sentences": " Ukhon mwen na khin",
+    "English Translations": "Navel my is this"
+  },
+  {
+    "English": "near",
+    "Edo": " sike",
+    "English Sentences": "Do not come near me",
+    "Edo Sentences": " Ghe sike mwen",
+    "English Translations": "Do not near me"
+  },
+  {
+    "English": "Neck, Necks",
+    "Edo": "iEyan",
+    "English Sentences": "My neck",
+    "Edo Sentences": "iEyan mwen",
+    "English Translations": "neck my"
+  },
+  {
+    "English": "Neighborhood, Neighborhoods",
+    "Edo": " Idun",
+    "English Sentences": "This is Osawe's neighborhood",
+    "Edo Sentences": " Idun oghe Osasu na khin",
+    "English Translations": "Neighborhood of Osawe is this"
+  },
+  {
+    "English": "Nose, Noses",
+    "Edo": " Ikhue",
+    "English Sentences": "Big nose",
+    "Edo Sentences": " Ikhue no kpolo",
+    "English Translations": "Nose is big"
+  },
+  {
+    "English": "not",
+    "Edo": "ie",
+    "English Sentences": "It is not good",
+    "Edo Sentences": "ie ma",
+    "English Translations": "Not good"
+  },
+  {
+    "English": "not",
+    "Edo": " ma ",
+    "English Sentences": "The rat did not fall",
+    "Edo Sentences": " Ofen ma dee",
+    "English Translations": "Rat not fall"
+  },
+  {
+    "English": "now",
+    "Edo": " nia",
+    "English Sentences": "Where are you now?",
+    "Edo Sentences": " We vbo nia?",
+    "English Translations": "You where now?"
+  },
+  {
+    "English": "of",
+    "Edo": "ioghe",
+    "English Sentences": "Uwa's clothes",
+    "Edo Sentences": " Ukpon oghe Uwa",
+    "English Translations": "Clothes of Uwa"
+  },
+  {
+    "English": "Oil, Oils",
+    "Edo": " Ofiugbon",
+    "English Sentences": "Use the oil to cook the soup",
+    "Edo Sentences": " Ye ofiugbon ya le uwomwen",
+    "English Translations": "Use oil to cook soup"
+  },
+  {
+    "English": "Old woman, Old women",
+    "Edo": " Edede",
+    "English Sentences": "The old woman came here yesterday",
+    "Edo Sentences": " Edede re node",
+    "English Translations": "Edede here yesterday"
+  },
+  {
+    "English": "on",
+    "Edo": " re",
+    "English Sentences": "On there ",
+    "Edo Sentences": " Re evba",
+    "English Translations": "On there"
+  },
+  {
+    "English": "on",
+    "Edo": " yan",
+    "English Sentences": "Place it on the chair",
+    "Edo Sentences": " Mu yan aga",
+    "English Translations": "Carry on chair"
+  },
+  {
+    "English": "on",
+    "Edo": " ye",
+    "English Sentences": "On here",
+    "Edo Sentences": " ye evban",
+    "English Translations": "On here"
+  },
+  {
+    "English": "on top",
+    "Edo": " uhun",
+    "English Sentences": "The cat is on the wall",
+    "Edo Sentences": " Ovbieden re uhun oghe egbekhen",
+    "English Translations": "Cat is on top of wall"
+  },
+  {
+    "English": "Onion, Onions",
+    "Edo": " Arubara",
+    "English Sentences": "Onions can cause tears",
+    "Edo Sentences": " Arubara seti sie evbe ye aro",
+    "English Translations": "Onions can cause tears in the eyes"
+  },
+  {
+    "English": "only",
+    "Edo": " kekan",
+    "English Sentences": "Uyi is eating just rice",
+    "Edo Sentences": " Uyi rrie Ize kekan",
+    "English Translations": "Uyi eat rice only"
+  },
+  {
+    "English": "open",
+    "Edo": " kie",
+    "English Sentences": "Open the bottle",
+    "Edo Sentences": " Kie ogo",
+    "English Translations": "Open bottle"
+  },
+  {
+    "English": "Orange, Oranges",
+    "Edo": " Animo",
+    "English Sentences": "The orange is not very ripe",
+    "Edo Sentences": " Animo ma kakabo vbo",
+    "English Translations": "Orange not very ripe"
+  },
+  {
+    "English": "our",
+    "Edo": " ima",
+    "English Sentences": "It is ours",
+    "Edo Sentences": "iOghe ima no",
+    "English Translations": "Of our is"
+  },
+  {
+    "English": "out",
+    "Edo": " fua",
+    "English Sentences": "Throw the trouser out",
+    "Edo Sentences": " Rrie etalawe fua",
+    "English Translations": "Take trousers out"
+  },
+  {
+    "English": "out",
+    "Edo": " ohe",
+    "English Sentences": "Nekpen is going out",
+    "Edo Sentences": " Nekpen rie ohe",
+    "English Translations": "Nekpen go out"
+  },
+  {
+    "English": "over",
+    "Edo": " ye",
+    "English Sentences": "Over here",
+    "Edo Sentences": " ye evban",
+    "English Translations": "Over here"
+  },
+  {
+    "English": "over there",
+    "Edo": " evbani",
+    "English Sentences": "Jump over there",
+    "Edo Sentences": " Shan ye evbani",
+    "English Translations": "Jump over there"
+  },
+  {
+    "English": "pain",
+    "Edo": " balo",
+    "English Sentences": "His hand is paining him seriously",
+    "Edo Sentences": " Obo wa balo ere",
+    "English Translations": "Hand very pain him"
+  },
+  {
+    "English": "Palace, Palaces",
+    "Edo": "iEguae",
+    "English Sentences": "The King is going to the palace",
+    "Edo Sentences": "iOba rie eguae",
+    "English Translations": "King going palace"
+  },
+  {
+    "English": "Paper, papers",
+    "Edo": " Ebe",
+    "English Sentences": "Write on the paper",
+    "Edo Sentences": " Gben emwin ye ebe",
+    "English Translations": "Write something on paper"
+  },
+  {
+    "English": "Paternal female relatives",
+    "Edo": "iOte nokhuo"
+  },
+  {
+    "English": "Paternal male relatives",
+    "Edo": "iOtenerha nokpia"
+  },
+  {
+    "English": "patience",
+    "Edo": " ifueko",
+    "English Sentences": "Use patience in everything you do",
+    "Edo Sentences": " Ifueko a ya we emwin",
+    "English Translations": "patience is use do things"
+  },
+  {
+    "English": "patience",
+    "Edo": " iziegbe",
+    "English Sentences": "Patience is good",
+    "Edo Sentences": " Iziegbe ma",
+    "English Translations": "Patience good"
+  },
+  {
+    "English": "Pencil, Pencils",
+    "Edo": " Eledi",
+    "English Sentences": "Take your pencil",
+    "Edo Sentences": " Rrie eledi we",
+    "English Translations": "Take pencil your"
+  },
+  {
+    "English": "Pennis",
+    "Edo": " Ekhia"
+  },
+  {
+    "English": "people",
+    "Edo": " Emwan",
+    "English Sentences": "Not everyone can swim",
+    "Edo Sentences": "iE emwan hia o ghua khue vbe eze",
+    "English Translations": "Not people all can bath in river"
+  },
+  {
+    "English": "Pepper, Peppers",
+    "Edo": "iEkhien",
+    "English Sentences": "I have pepper in my farm",
+    "Edo Sentences": " I mwen ekhien vbe ugbo",
+    "English Translations": "I have pepper in farm"
+  },
+  {
+    "English": "Pepperish Soup/Stew",
+    "Edo": "iEkhienoto",
+    "English Sentences": "There is meat in the pepperish soup",
+    "Edo Sentences": " Imiowo re ekhienoto",
+    "English Translations": "Meat in pepperish soup"
+  },
+  {
+    "English": "Pepperish Soup/Stew",
+    "Edo": " Owoto",
+    "English Sentences": "There is meat in the pepperish soup",
+    "Edo Sentences": " Imiowo re owoto",
+    "English Translations": "Meat in pepperish soup"
+  },
+  {
+    "English": "Person",
+    "Edo": "iOmwan",
+    "English Sentences": "Who is the person sweeping",
+    "Edo Sentences": " De omwan no kpolo?",
+    "English Translations": "What person is sweep?"
+  },
+  {
+    "English": "pet",
+    "Edo": " babae",
+    "English Sentences": "Pet that child",
+    "Edo Sentences": " We babae omo nii",
+    "English Translations": "You pet that child that "
+  },
+  {
+    "English": "Pillow, Pillows",
+    "Edo": " Ukohun",
+    "English Sentences": "Put your head on the pillow",
+    "Edo Sentences": " Mu uhun ye ukohun",
+    "English Translations": "Put head on pillow"
+  },
+  {
+    "English": "place",
+    "Edo": " mu",
+    "English Sentences": "Place cup here",
+    "Edo Sentences": " Mu ukpu ye evban",
+    "English Translations": "Place cup in here"
+  },
+  {
+    "English": "place",
+    "Edo": " ye",
+    "English Sentences": "Place here",
+    "Edo Sentences": " ye evban",
+    "English Translations": "Place here"
+  },
+  {
+    "English": "Place, Places",
+    "Edo": " Eke",
+    "English Sentences": "A place by the river",
+    "Edo Sentences": " Eke ne eze ye",
+    "English Translations": "Place the river is "
+  },
+  {
+    "English": "Plantain, Plantains",
+    "Edo": "iOghede",
+    "English Sentences": "A lot of plantain",
+    "Edo Sentences": "iOghede bun",
+    "English Translations": "Plantain plenty"
+  },
+  {
+    "English": "Plate, Plates",
+    "Edo": " Ekpamakpu",
+    "English Sentences": "There are lots of plates in this house",
+    "Edo Sentences": " Ekpamakpu bun vbe owa na",
+    "English Translations": "Plates plenty in house this"
+  },
+  {
+    "English": "play",
+    "Edo": " ikuu",
+    "English Sentences": "Child's/Children's play",
+    "Edo Sentences": " Ikuu ibieka",
+    "English Translations": "Play children"
+  },
+  {
+    "English": "play",
+    "Edo": " ku",
+    "English Sentences": "Let us go and play",
+    "Edo Sentences": " Ghie ma ya ku",
+    "English Translations": "Let us go play"
+  },
+  {
+    "English": "play",
+    "Edo": " kpe",
+    "English Sentences": "Women also drum",
+    "Edo Sentences": " Ikhuo vbe kpe ema",
+    "English Translations": "Women also play drums"
+  },
+  {
+    "English": "play an object",
+    "Edo": " gbe",
+    "English Sentences": "Oghogho is playing football / soccer",
+    "Edo Sentences": " Oghogho gbe ebol",
+    "English Translations": "Oghogho play ball"
+  },
+  {
+    "English": "please",
+    "Edo": " laho",
+    "English Sentences": "Please go away",
+    "Edo Sentences": " Laho gha khian",
+    "English Translations": "Please should going"
+  },
+  {
+    "English": "plenty, many",
+    "Edo": " bun",
+    "English Sentences": "There are many chickens over there",
+    "Edo Sentences": "iOkhokho wa bun vbe evbani",
+    "English Translations": "Chicken very many over there"
+  },
+  {
+    "English": "pluck",
+    "Edo": " kolo",
+    "English Sentences": "Adolo is plucking leaves",
+    "Edo Sentences": " Adolo kolo ebe",
+    "English Translations": "Adolo pluck leaf"
+  },
+  {
+    "English": "Pot, Clay pot",
+    "Edo": " Akhe",
+    "English Sentences": "Pour water into the pot",
+    "Edo Sentences": " Se amen ye akhe",
+    "English Translations": "Pour water into pot"
+  },
+  {
+    "English": "pound",
+    "Edo": " dumwen",
+    "English Sentences": "Mother is pounding yam",
+    "Edo Sentences": " Iye dumwen ema",
+    "English Translations": "Mother pound yam"
+  },
+  {
+    "English": "Pounded yam",
+    "Edo": " Ema",
+    "English Sentences": "We ate pounded yam and soup",
+    "Edo Sentences": " Ma rrie ema kevbe uwomwen",
+    "English Translations": "We eat pounded yam and soup"
+  },
+  {
+    "English": "pour",
+    "Edo": " se",
+    "English Sentences": "Pour the water here",
+    "Edo Sentences": " Se amen ye evban",
+    "English Translations": "Pour water in here"
+  },
+  {
+    "English": "press",
+    "Edo": " pion",
+    "English Sentences": "Press the bell",
+    "Edo Sentences": " Pion egogo",
+    "English Translations": "Press bell"
+  },
+  {
+    "English": "prosperity",
+    "Edo": " uwa",
+    "English Sentences": "This is prosperity",
+    "Edo Sentences": " Uwa na khin",
+    "English Translations": "Prosperity is this"
+  },
+  {
+    "English": "pull / drag",
+    "Edo": " si",
+    "English Sentences": "Drag the book there",
+    "Edo Sentences": " Si ebe ye evba",
+    "English Translations": "Drag book in there"
+  },
+  {
+    "English": "pursue",
+    "Edo": " khue",
+    "English Sentences": "Pursue Osaze",
+    "Edo Sentences": " Khue Osaze",
+    "English Translations": "Pursue Osaze"
+  },
+  {
+    "English": "put",
+    "Edo": " rrie",
+    "English Sentences": "Put cream on your hair",
+    "Edo Sentences": " Rrie ohi ye eto",
+    "English Translations": "Put cream on hair"
+  },
+  {
+    "English": "put",
+    "Edo": " ye",
+    "English Sentences": "Put here",
+    "Edo Sentences": " ye evban",
+    "English Translations": "Put here"
+  },
+  {
+    "English": "put (grains)",
+    "Edo": " ze",
+    "English Sentences": "Put the beans in the bag",
+    "Edo Sentences": " Ze ehe ye ekpo",
+    "English Translations": "Put beans in bag"
+  },
+  {
+    "English": "quarrel",
+    "Edo": "iezo",
+    "English Sentences": "They have a lot of quarrels",
+    "Edo Sentences": " Iyan mwen ezo no bun",
+    "English Translations": "They have quarrel that many"
+  },
+  {
+    "English": "quick",
+    "Edo": "zeghie",
+    "English Sentences": "Eat your food quickly",
+    "Edo Sentences": " Zeghie rrie evbaire",
+    "English Translations": "Quickly eat food"
+  },
+  {
+    "English": "Rabbit, Rabbits",
+    "Edo": "iOfionto",
+    "English Sentences": "There is a rabbit in this farm",
+    "Edo Sentences": "iOfionto re ugbo na",
+    "English Translations": "Rabbit in farm this"
+  },
+  {
+    "English": "Radio, Radios",
+    "Edo": "iEkpetahoen",
+    "English Sentences": "Osasere has five radios",
+    "Edo Sentences": " Osasere mwen ekpetahoen isen",
+    "English Translations": "Osasere has radio five"
+  },
+  {
+    "English": "raining",
+    "Edo": " rho",
+    "English Sentences": "It is raining",
+    "Edo Sentences": " Amen rho",
+    "English Translations": "Water falling/raining"
+  },
+  {
+    "English": "Rat, Rats",
+    "Edo": " Ofen",
+    "English Sentences": "There is rat on top of the house",
+    "Edo Sentences": " Ofen re uhun oghe owa",
+    "English Translations": "Rat is on top of house"
+  },
+  {
+    "English": "reach",
+    "Edo": " se",
+    "English Sentences": "Uyi reached the school yesterday",
+    "Edo Sentences": " Uyi se esuku node",
+    "English Translations": "Uyi reach school yesterday"
+  },
+  {
+    "English": "red",
+    "Edo": " ba",
+    "English Sentences": "Red cloth",
+    "Edo Sentences": "iEwe no ba",
+    "English Translations": "Cloth that red"
+  },
+  {
+    "English": "Relative, Sibling",
+    "Edo": "iOten"
+  },
+  {
+    "English": "Relatives",
+    "Edo": " Eten",
+    "English Sentences": "Ehi's relatives",
+    "Edo Sentences": " Eten Ehi",
+    "English Translations": "Relatives Ehi"
+  },
+  {
+    "English": "remember",
+    "Edo": " yere",
+    "English Sentences": "You do not remember?",
+    "Edo Sentences": " U ma yere?",
+    "English Translations": "You do not remember?"
+  },
+  {
+    "English": "respect",
+    "Edo": " uyi",
+    "English Sentences": "Respect your teachers",
+    "Edo Sentences": " Rrie uyi ne etisa were",
+    "English Translations": "Give respect for teachers your"
+  },
+  {
+    "English": "rest",
+    "Edo": " hewe",
+    "English Sentences": "Eghosa has gone to rest",
+    "Edo Sentences": " Eghosa ya hewe",
+    "English Translations": "Eghosa go rest"
+  },
+  {
+    "English": "Rice",
+    "Edo": " Ize",
+    "English Sentences": "The rice is not ready",
+    "Edo Sentences": " Ize ma ga",
+    "English Translations": "Rice not done"
+  },
+  {
+    "English": "ride",
+    "Edo": " fi",
+    "English Sentences": "Ride your bicycle",
+    "Edo Sentences": " Fi ikeke were",
+    "English Translations": "Ride bicycle your"
+  },
+  {
+    "English": "right here",
+    "Edo": " evbana",
+    "English Sentences": "Run over here",
+    "Edo Sentences": " Rhule ye evbana",
+    "English Translations": "Run over right here"
+  },
+  {
+    "English": "ring",
+    "Edo": " kpe",
+    "English Sentences": "Ring the bell",
+    "Edo Sentences": " Kpe egogo",
+    "English Translations": "Ring bell"
+  },
+  {
+    "English": "Ring, Rings",
+    "Edo": " Oka",
+    "English Sentences": "Wear a ring",
+    "Edo Sentences": " Rrie oka ye obo",
+    "English Translations": "Wear ring in hand"
+  },
+  {
+    "English": "ripe",
+    "Edo": " vbo",
+    "English Sentences": "Ripe plantain",
+    "Edo Sentences": " Oghede no vbo",
+    "English Translations": "Plantain that ripe"
+  },
+  {
+    "English": "River, Rivers",
+    "Edo": "iEze",
+    "English Sentences": "You all look at the river",
+    "Edo Sentences": " Wa ghee eze",
+    "English Translations": "You all look river"
+  },
+  {
+    "English": "Road, Roads",
+    "Edo": " Ukpo",
+    "English Sentences": "This road is not long",
+    "Edo Sentences": " Ukpo na ma tan",
+    "English Translations": "Road this not long"
+  },
+  {
+    "English": "Room, Rooms",
+    "Edo": " Uhowa",
+    "English Sentences": "This house has many rooms",
+    "Edo Sentences": " Owa na mwen uhowa no bun",
+    "English Translations": "House this has rooms that plenty"
+  },
+  {
+    "English": "Rope, Ropes",
+    "Edo": " Irri",
+    "English Sentences": "Pull the rope (towards us)",
+    "Edo Sentences": " Si irri re",
+    "English Translations": "Pull rope come"
+  },
+  {
+    "English": "run",
+    "Edo": " le",
+    "English Sentences": "Run into the house",
+    "Edo Sentences": " Le la owa",
+    "English Translations": "Run in house"
+  },
+  {
+    "English": "Run",
+    "Edo": " rhule",
+    "English Sentences": "Run to the market",
+    "Edo Sentences": " Rhule gha rie eki",
+    "English Translations": "Run to go market"
+  },
+  {
+    "English": "Salt",
+    "Edo": " Umwen",
+    "English Sentences": "Put some salt in the soup",
+    "Edo Sentences": " Ze umwen ye uwomwen",
+    "English Translations": "Put salt in soup"
+  },
+  {
+    "English": "Saturday, Saturdays",
+    "Edo": " Uzola nekhere",
+    "English Sentences": "I will go to the river on Saturday",
+    "Edo Sentences": " I ya ye eze vbe uzola nekhere",
+    "English Translations": "I will go river Saturday "
+  },
+  {
+    "English": "say",
+    "Edo": " we",
+    "English Sentences": "Teacher said that you should come",
+    "Edo Sentences": " Etisa we nu lare",
+    "English Translations": "Teacher said you should come"
+  },
+  {
+    "English": "School, Schools",
+    "Edo": " Esuku",
+    "English Sentences": "This is my school",
+    "Edo Sentences": " Esuku mwen na khin",
+    "English Translations": "School my is this"
+  },
+  {
+    "English": "scream",
+    "Edo": " vbokan",
+    "English Sentences": "Eki screamed on her children",
+    "Edo Sentences": "iEki vbokan yan ibvie ere",
+    "English Translations": "Eki screamed on children her"
+  },
+  {
+    "English": "sell",
+    "Edo": " khien",
+    "English Sentences": "We sell shoes here",
+    "Edo Sentences": " Ma khien ibata vbe evban",
+    "English Translations": "We sell shoes in here"
+  },
+  {
+    "English": "Send",
+    "Edo": " gie",
+    "English Sentences": "The teacher sent me",
+    "Edo Sentences": " Etisa gie mwen",
+    "English Translations": "Teacher send me"
+  },
+  {
+    "English": "Senior Twin",
+    "Edo": "iOdion",
+    "English Sentences": "The senior twin is sleeping",
+    "Edo Sentences": "iOdion vbiere",
+    "English Translations": "Senior twin sleep"
+  },
+  {
+    "English": "serve",
+    "Edo": " ze",
+    "English Sentences": "Serve some rice on the plate",
+    "Edo Sentences": " Ze ize ye ekpamakpu",
+    "English Translations": "Serve rice on plate"
+  },
+  {
+    "English": "shake",
+    "Edo": " fieghe",
+    "English Sentences": "Shake your ass / buttocks",
+    "Edo Sentences": " Fieghe onisan were",
+    "English Translations": "Shake buttocks / ass your"
+  },
+  {
+    "English": "she",
+    "Edo": "io",
+    "English Sentences": "She is coming",
+    "Edo Sentences": "iO dee",
+    "English Translations": "She come"
+  },
+  {
+    "English": "Shirt, Shirts",
+    "Edo": "iEwu",
+    "English Sentences": "Your shirt is fine",
+    "Edo Sentences": "iEwu were mose",
+    "English Translations": "Shirt your fine"
+  },
+  {
+    "English": "Shoe, Shoes",
+    "Edo": " Ibata",
+    "English Sentences": "This is my shoe",
+    "Edo Sentences": " Ibabta mwen na khin",
+    "English Translations": "Shoe my is this"
+  },
+  {
+    "English": "should",
+    "Edo": " gha",
+    "English Sentences": "You all should be eating",
+    "Edo Sentences": " Wa gha rrie evbaire ",
+    "English Translations": "You all should take food"
+  },
+  {
+    "English": "should",
+    "Edo": " nu",
+    "English Sentences": "Teacher said that you should come",
+    "Edo Sentences": " Etisa we nu we gha dee",
+    "English Translations": "Teacher say should you to come"
+  },
+  {
+    "English": "Shoulder, Shoulders",
+    "Edo": " Izabo",
+    "English Sentences": "Edosa has pain in the shoulder",
+    "Edo Sentences": " Izabo balo Edosa",
+    "English Translations": "Shoulders pain Edosa"
+  },
+  {
+    "English": "shout",
+    "Edo": " van",
+    "English Sentences": "Amen shouts too much",
+    "Edo Sentences": " Amen van gbe",
+    "English Translations": "Amen shout too much"
+  },
+  {
+    "English": "Siblings",
+    "Edo": " Eten",
+    "English Sentences": "Osawe's siblings",
+    "Edo Sentences": " Eten Osawe",
+    "English Translations": "Siblings Osawe"
+  },
+  {
+    "English": "Sing",
+    "Edo": " so",
+    "English Sentences": "Uwaifo can sing songs",
+    "Edo Sentences": " Uwaifo ghua so ikhuan",
+    "English Translations": "Uwaifo able sing song"
+  },
+  {
+    "English": "sit",
+    "Edo": " tota",
+    "English Sentences": "The dog is sitting with the goat",
+    "Edo Sentences": " Ekita tota ke ewe",
+    "English Translations": "Dog sit with goat"
+  },
+  {
+    "English": "Sky",
+    "Edo": " Iso",
+    "English Sentences": "God created the sky",
+    "Edo Sentences": " Osanobua o yi iso",
+    "English Translations": "God who create sky"
+  },
+  {
+    "English": "sleep",
+    "Edo": " vbiere",
+    "English Sentences": "The child is sleeping",
+    "Edo Sentences": "iOmo vbiere",
+    "English Translations": "Child sleep"
+  },
+  {
+    "English": "small",
+    "Edo": " khere",
+    "English Sentences": "Small cup",
+    "Edo Sentences": " Ukpu ne khere",
+    "English Translations": "Cup the small"
+  },
+  {
+    "English": "Smoke",
+    "Edo": " Ighogho",
+    "English Sentences": "Smoke is entering the house",
+    "Edo Sentences": " Ighogho la owa",
+    "English Translations": "Smoke enter house"
+  },
+  {
+    "English": "Snail, Snails",
+    "Edo": " Egile",
+    "English Sentences": "There are four snails here",
+    "Edo Sentences": " Egile ene re evban",
+    "English Translations": "Snail four are here"
+  },
+  {
+    "English": "Snake, Snakes",
+    "Edo": "iEyen",
+    "English Sentences": "The snake ran into the bushes",
+    "Edo Sentences": "iEyen le la oha",
+    "English Translations": "Snake ran into bush"
+  },
+  {
+    "English": "sneeze",
+    "Edo": " tihin",
+    "English Sentences": "The baby is sneezing",
+    "Edo Sentences": "iOmomo tihin",
+    "English Translations": "Baby sneeze"
+  },
+  {
+    "English": "Soap, Soaps",
+    "Edo": " Ewakhue",
+    "English Sentences": "Use the soap to bath",
+    "Edo Sentences": " Ye ewakhue ya khue",
+    "English Translations": "Use soap to bath"
+  },
+  {
+    "English": "some",
+    "Edo": " so",
+    "English Sentences": "Some birds do not fly",
+    "Edo Sentences": " Akhianmwen so e tin",
+    "English Translations": "Birds some not fly"
+  },
+  {
+    "English": "sometimes",
+    "Edo": " gbenso",
+    "English Sentences": "I walk to school sometimes",
+    "Edo Sentences": " I khian ye esuku gbenso",
+    "English Translations": "I walk to school sometimes"
+  },
+  {
+    "English": "Song, Songs",
+    "Edo": " Ikhuan",
+    "English Sentences": "Imade is singing a song",
+    "Edo Sentences": " Imade so ikhuan",
+    "English Translations": "Imade sing song"
+  },
+  {
+    "English": "Soup",
+    "Edo": " Uwomwen",
+    "English Sentences": "This soup is very good",
+    "Edo Sentences": " Uwomwen na wa ma",
+    "English Translations": "Soup is very good"
+  },
+  {
+    "English": "speak",
+    "Edo": " ghuan",
+    "English Sentences": "Uwa is speaking there",
+    "Edo Sentences": " Uwa ghuan vbe evba",
+    "English Translations": "Uwa speak there"
+  },
+  {
+    "English": "speak",
+    "Edo": " zee",
+    "English Sentences": "Please always speak Edo",
+    "Edo Sentences": " Laho wa gha zee Edo",
+    "English Translations": "Please you all should speak Edo"
+  },
+  {
+    "English": "Spirit, Spirits",
+    "Edo": "iEhi",
+    "English Sentences": "God is a Spirit",
+    "Edo Sentences": "iEhi Osanobua khin",
+    "English Translations": "Spirit God it is"
+  },
+  {
+    "English": "Spit",
+    "Edo": " Asen",
+    "English Sentences": "Spit out the saliva",
+    "Edo Sentences": " Tue asen fua ",
+    "English Translations": "Throw spit out"
+  },
+  {
+    "English": "Sponge",
+    "Edo": " Ikhion",
+    "English Sentences": "Use the sponge to wash the car",
+    "Edo Sentences": " Ye ikhion ya kpe imoto",
+    "English Translations": "Use sponge to wash car"
+  },
+  {
+    "English": "Spoon, Spoons",
+    "Edo": " Ekuye",
+    "English Sentences": "Give me the spoon",
+    "Edo Sentences": " Rrie ekuye me",
+    "English Translations": "Give spoon me"
+  },
+  {
+    "English": "squarsh",
+    "Edo": " pierhe",
+    "English Sentences": "Squash the tomatoes",
+    "Edo Sentences": " Pierhe etomatos",
+    "English Translations": "Squash tomatoes"
+  },
+  {
+    "English": "squart",
+    "Edo": " dighien",
+    "English Sentences": "The infants are squatting by the river",
+    "Edo Sentences": " Ibieka dighien ye okpen eze",
+    "English Translations": "Infants squat by river"
+  },
+  {
+    "English": "stand",
+    "Edo": " mudia",
+    "English Sentences": "Stand on the chair",
+    "Edo Sentences": " Mudia yan aga",
+    "English Translations": "Stand on chair"
+  },
+  {
+    "English": "Star",
+    "Edo": " Owen",
+    "English Sentences": "The sky is filled with stars",
+    "Edo Sentences": " Owen vbon iso",
+    "English Translations": "Stars full sky"
+  },
+  {
+    "English": "stick it in",
+    "Edo": " zien",
+    "English Sentences": "Stick it here",
+    "Edo Sentences": " Zien ere ye evban",
+    "English Translations": "Stick it in here"
+  },
+  {
+    "English": "Stick, Sticks",
+    "Edo": " Ukpokpo",
+    "English Sentences": "This is a big stick",
+    "Edo Sentences": " Ukpokpo na kpolo",
+    "English Translations": "Stick this big"
+  },
+  {
+    "English": "Stone, Stones",
+    "Edo": " Ugbe",
+    "English Sentences": "Give me the stone",
+    "Edo Sentences": " Rrie ugbe me",
+    "English Translations": "Give stone me"
+  },
+  {
+    "English": "Story, Stories",
+    "Edo": " okha",
+    "English Sentences": "Tell me the story",
+    "Edo Sentences": " Ta okha ma mwen",
+    "English Translations": "Tell story to me"
+  },
+  {
+    "English": "Sun ",
+    "Edo": " Oven",
+    "English Sentences": "They worshipped the sun a long time ago",
+    "Edo Sentences": " Iyan ga oven eghe ne ede",
+    "English Translations": "They worship sun time of days"
+  },
+  {
+    "English": "Sun (Red sunset)",
+    "Edo": " Owon",
+    "English Sentences": "Look at the red sun",
+    "Edo Sentences": " Ghee owon",
+    "English Translations": "Look red sun"
+  },
+  {
+    "English": "Sunday, Sundays",
+    "Edo": " Uzola nokhua",
+    "English Sentences": "I went to the market on Sunday",
+    "Edo Sentences": " I ye eki vbe uzola nokhua",
+    "English Translations": "I go market Sunday"
+  },
+  {
+    "English": "Superior to, better than",
+    "Edo": " se",
+    "English Sentences": "The teacher is higher than you",
+    "Edo Sentences": " Etisa se we",
+    "English Translations": "Teacher higher you"
+  },
+  {
+    "English": "sweep",
+    "Edo": " kpolo",
+    "English Sentences": "Go and sweep outside",
+    "Edo Sentences": " Ya kpolo ohe",
+    "English Translations": "Go sweep out"
+  },
+  {
+    "English": "Table, Tables",
+    "Edo": " Etebu",
+    "English Sentences": "Bring the table here",
+    "Edo Sentences": " Mu etabu re",
+    "English Translations": "Carry table here"
+  },
+  {
+    "English": "Tail, Tails",
+    "Edo": "iErhurhun",
+    "English Sentences": "Lizard's tail",
+    "Edo Sentences": "iErhurhun oghe esikpalo",
+    "English Translations": "Tail of lizard"
+  },
+  {
+    "English": "take",
+    "Edo": " rrie",
+    "English Sentences": "Take this shirt and put it over there",
+    "Edo Sentences": " Rrie ewu nii ye evbani",
+    "English Translations": "Take shirt this put over there"
+  },
+  {
+    "English": "take (liquid)",
+    "Edo": " se",
+    "English Sentences": "Take some soup from here",
+    "Edo Sentences": " Se uwomwen vbe evbana",
+    "English Translations": "Take soup from here"
+  },
+  {
+    "English": "take huge amount of substance",
+    "Edo": " balo",
+    "English Sentences": "Dish the rice right here ",
+    "Edo Sentences": " Balo ize ye evbana",
+    "English Translations": "Dish rice in right here"
+  },
+  {
+    "English": "talk",
+    "Edo": " talo",
+    "English Sentences": "Osawe can talk",
+    "Edo Sentences": " Osawe ghua talo",
+    "English Translations": "Osawe can talk"
+  },
+  {
+    "English": "tall",
+    "Edo": " tan",
+    "English Sentences": "This man is tall",
+    "Edo Sentences": " Okpia na tan",
+    "English Translations": "Man this tall"
+  },
+  {
+    "English": "teach",
+    "Edo": " ma ",
+    "English Sentences": "He taught it to me",
+    "Edo Sentences": "iO ma mwen ere",
+    "English Translations": "He teach me it"
+  },
+  {
+    "English": "Teacher, Teachers",
+    "Edo": " Etisa",
+    "English Sentences": "My teacher",
+    "Edo Sentences": " Etisa mwen",
+    "English Translations": "Teacher my"
+  },
+  {
+    "English": "Tears",
+    "Edo": " Evbe",
+    "English Sentences": "There is tears in your eyes",
+    "Edo Sentences": " Evbe ro we aro",
+    "English Translations": "Tears is in your eyes"
+  },
+  {
+    "English": "Television, Televisions",
+    "Edo": "iEkpetughe",
+    "English Sentences": "This is a big television",
+    "Edo Sentences": "iEkpetughe na kpolo",
+    "English Translations": "Television this big"
+  },
+  {
+    "English": "tell",
+    "Edo": " ta",
+    "English Sentences": "The old woman told us a story",
+    "Edo Sentences": " Edede ta okha ni ma",
+    "English Translations": "Old woman tell story for us"
+  },
+  {
+    "English": "thank",
+    "Edo": " kponmwen",
+    "English Sentences": "Thank you",
+    "Edo Sentences": " I kponmwen we",
+    "English Translations": "I thank you"
+  },
+  {
+    "English": "thank You",
+    "Edo": " uruese",
+    "English Sentences": "Thanks a lot",
+    "Edo Sentences": " Uruese kakabo",
+    "English Translations": "Thank you a lot"
+  },
+  {
+    "English": "thank you (Plural)",
+    "Edo": " waruese",
+    "English Sentences": "Thank you my friends",
+    "Edo Sentences": " Waruese ose mwen",
+    "English Translations": "Thank you friends my"
+  },
+  {
+    "English": "thanks",
+    "Edo": " akponmwen",
+    "English Sentences": "Let us thank God",
+    "Edo Sentences": " Ghi ma akpomwen Osa  ",
+    "English Translations": "Let us thank God"
+  },
+  {
+    "English": "that",
+    "Edo": " nii",
+    "English Sentences": "That goat",
+    "Edo Sentences": " Ewe nii",
+    "English Translations": "Goat that"
+  },
+  {
+    "English": "The",
+    "Edo": " Ne",
+    "English Sentences": "Efe the teacher",
+    "Edo Sentences": "iEfe ne etisa",
+    "English Translations": "Efe the teacher"
+  },
+  {
+    "English": "the day before yesterday",
+    "Edo": " nedia"
+  },
+  {
+    "English": "them",
+    "Edo": " iyan",
+    "English Sentences": "It is them",
+    "Edo Sentences": " Iyan no",
+    "English Translations": "Them is"
+  },
+  {
+    "English": "there",
+    "Edo": " evba",
+    "English Sentences": "I am going there",
+    "Edo Sentences": " I rrie evba",
+    "English Translations": "I go there"
+  },
+  {
+    "English": "these",
+    "Edo": " khin",
+    "English Sentences": "What are these?",
+    "Edo Sentences": " Vbe na khin?",
+    "English Translations": "What are these?"
+  },
+  {
+    "English": "these",
+    "Edo": " nii",
+    "English Sentences": "These clothes",
+    "Edo Sentences": " Ukpon nii",
+    "English Translations": "Cloth these"
+  },
+  {
+    "English": "they",
+    "Edo": "ie"
+  },
+  {
+    "English": "they",
+    "Edo": " iyan",
+    "English Sentences": "Where are they?",
+    "Edo Sentences": " Iyan vbo?",
+    "English Translations": "They where?"
+  },
+  {
+    "English": "Thief, Thieves",
+    "Edo": " Oyi",
+    "English Sentences": "The thief ran into the Market",
+    "Edo Sentences": " Oyi le la eki",
+    "English Translations": "Thief run into market"
+  },
+  {
+    "English": "thing",
+    "Edo": " mwin",
+    "English Sentences": "What is this thing?",
+    "Edo Sentences": " De mwin no khin?",
+    "English Translations": "What thing is this?"
+  },
+  {
+    "English": "thing, things",
+    "Edo": " emwin",
+    "English Sentences": "What is this thing?",
+    "Edo Sentences": " De emwin no na khin?",
+    "English Translations": "What thing is this?"
+  },
+  {
+    "English": "this",
+    "Edo": " khin",
+    "English Sentences": "This is a leaf",
+    "Edo Sentences": "iEbe na khin",
+    "English Translations": "Leaf is this"
+  },
+  {
+    "English": "This",
+    "Edo": " na",
+    "English Sentences": "This day",
+    "Edo Sentences": "iEde na",
+    "English Translations": "Day this"
+  },
+  {
+    "English": "throw",
+    "Edo": " fie",
+    "English Sentences": "Throw the stone",
+    "Edo Sentences": " Fie ugbe",
+    "English Translations": "Throw stone"
+  },
+  {
+    "English": "throw",
+    "Edo": " tue",
+    "English Sentences": "Pour out the drink",
+    "Edo Sentences": " Tue ayun kua",
+    "English Translations": "Throw drink away"
+  },
+  {
+    "English": "tie",
+    "Edo": " gbai",
+    "English Sentences": "Tie the rope here",
+    "Edo Sentences": " Gbai irri ye evban",
+    "English Translations": "Tie rope at here"
+  },
+  {
+    "English": "time",
+    "Edo": "ieghe",
+    "English Sentences": "Time is wasting/going",
+    "Edo Sentences": "iEghe khian",
+    "English Translations": "Time going"
+  },
+  {
+    "English": "time reference",
+    "Edo": " vbe",
+    "English Sentences": "What time will it start?",
+    "Edo Sentences": " Vbe eghe no khin?",
+    "English Translations": "What time is this?"
+  },
+  {
+    "English": "Tin, Tins",
+    "Edo": " Ukpago",
+    "English Sentences": "Tomatoes tin",
+    "Edo Sentences": " Upkago etomatos",
+    "English Translations": "Tin tomatoes"
+  },
+  {
+    "English": "to",
+    "Edo": " gha",
+    "English Sentences": "come with the pencil",
+    "Edo Sentences": " Rrie eledi gha dee",
+    "English Translations": "Take pencil to come"
+  },
+  {
+    "English": "to",
+    "Edo": " ghe",
+    "English Sentences": "Let us go to the back",
+    "Edo Sentences": " Ghi ma la ghe iyeke",
+    "English Translations": "let us go to back"
+  },
+  {
+    "English": "to",
+    "Edo": " ma ",
+    "English Sentences": "Tell him / Tell it to him",
+    "Edo Sentences": " Ta ma ere",
+    "English Translations": "Tell to him"
+  },
+  {
+    "English": "to",
+    "Edo": " na",
+    "English Sentences": "The mat used to / for lying down",
+    "Edo Sentences": " Owa na ya lovbie",
+    "English Translations": "mat to use lie down"
+  },
+  {
+    "English": "to",
+    "Edo": " ya",
+    "English Sentences": "The ball is used for playing",
+    "Edo Sentences": " Ye ebol ya ku",
+    "English Translations": "Use ball to play"
+  },
+  {
+    "English": "Toe, Toes",
+    "Edo": " Ikpianwe",
+    "English Sentences": "Chicken toes",
+    "Edo Sentences": " Ikpianwe oghe okhokho",
+    "English Translations": "Toes of chicken"
+  },
+  {
+    "English": "together",
+    "Edo": " akugbe",
+    "English Sentences": "There is power in unity",
+    "Edo Sentences": " Akugbe o e etin",
+    "English Translations": "togetherness is strength"
+  },
+  {
+    "English": "tomorrow",
+    "Edo": " akhue",
+    "English Sentences": "We shall/will pray tomorrow",
+    "Edo Sentences": " A gha lerhumwun vbe ahkue",
+    "English Translations": "We shall/will pray tomorrow"
+  },
+  {
+    "English": "Tongue, Tongues",
+    "Edo": " Amwen",
+    "English Sentences": "The Dog's tongue is very long",
+    "Edo Sentences": " Amwen ekita kakabo tan",
+    "English Translations": "Tongue dog very long"
+  },
+  {
+    "English": "too much",
+    "Edo": " gbe ",
+    "English Sentences": "Isoken talks too much",
+    "Edo Sentences": " Isoken talo gbe",
+    "English Translations": "Isoken talks too much"
+  },
+  {
+    "English": "too much",
+    "Edo": " helele",
+    "English Sentences": "That man is extremely huge",
+    "Edo Sentences": " Opkia nii ye helele",
+    "English Translations": "Man that is too much (size)"
+  },
+  {
+    "English": "Tooth, Teeth",
+    "Edo": " Akon",
+    "English Sentences": "His/her teeth is very dirty",
+    "Edo Sentences": " Akon oghe wa gbiwhen",
+    "English Translations": "Teeth his/her very dirty"
+  },
+  {
+    "English": "Tortise, Tortises",
+    "Edo": " Egui",
+    "English Sentences": "The tortoise is hiding",
+    "Edo Sentences": " Egui ya lehe",
+    "English Translations": "Tortoise go hide"
+  },
+  {
+    "English": "Traditional Soup/Stew",
+    "Edo": " Owo",
+    "English Sentences": "Osagie is eating yam with traditional soup",
+    "Edo Sentences": " Osagie rrie iyan kevbe owo",
+    "English Translations": "Osagie eat yam and traditional soup"
+  },
+  {
+    "English": "Trap, Traps",
+    "Edo": " Ifi",
+    "English Sentences": "The trap caught something",
+    "Edo Sentences": " Ifi mu emwin",
+    "English Translations": "Trap catch something"
+  },
+  {
+    "English": "travel",
+    "Edo": " ehe",
+    "English Sentences": "Osaze has traveled",
+    "Edo Sentences": " Osaze rie ehe",
+    "English Translations": "Osaze gone journey"
+  },
+  {
+    "English": "Trouser, Trousers, pants",
+    "Edo": " Etalawe",
+    "English Sentences": "Usi has trousers",
+    "Edo Sentences": " Usi mwen etalawe",
+    "English Translations": "Usi has trousers"
+  },
+  {
+    "English": "try",
+    "Edo": " hiare",
+    "English Sentences": "Osawe tried in the exam",
+    "Edo Sentences": " Osawe hiare vbe edamwen",
+    "English Translations": "Osawe try in exam"
+  },
+  {
+    "English": "Twins",
+    "Edo": " Ivineva",
+    "English Sentences": "Efosa and Esosa are twins",
+    "Edo Sentences": " Ivineva e Efosa kevbe Esosa khin ",
+    "English Translations": "Twins they Efosa and Esosa are"
+  },
+  {
+    "English": "two days before yesterday",
+    "Edo": " nedene"
+  },
+  {
+    "English": "under",
+    "Edo": "ototo",
+    "English Sentences": "The spoon is underneath the pillow",
+    "Edo Sentences": " Ekuye re ototo ukohun",
+    "English Translations": "Spoon is under pillow"
+  },
+  {
+    "English": "up",
+    "Edo": "ukhun",
+    "English Sentences": "The sun is above",
+    "Edo Sentences": " Oven re ukhun",
+    "English Translations": "Sun is up"
+  },
+  {
+    "English": "us",
+    "Edo": "ma ",
+    "English Sentences": "The goat is for us",
+    "Edo Sentences": "iEwe ma no",
+    "English Translations": "Goat us is"
+  },
+  {
+    "English": "use",
+    "Edo": "ya",
+    "English Sentences": "A spoon is used to serve rice",
+    "Edo Sentences": " Ekuye a ya ze ize",
+    "English Translations": "Spoon is use serve rice"
+  },
+  {
+    "English": "use",
+    "Edo": "ye",
+    "English Sentences": "Use the cup to pour water",
+    "Edo Sentences": " Ye ukpu se amen",
+    "English Translations": "Use cup pour water"
+  },
+  {
+    "English": "Vagina",
+    "Edo": " Uhe"
+  },
+  {
+    "English": "very",
+    "Edo": " wa",
+    "English Sentences": "The spoons are very many",
+    "Edo Sentences": " Ekuye wa bun",
+    "English Translations": "Spoons very many"
+  },
+  {
+    "English": "very well",
+    "Edo": "iesese",
+    "English Sentences": "Jump very well",
+    "Edo Sentences": " Shan esese",
+    "English Translations": "Jump very well"
+  },
+  {
+    "English": "Waist, Waists",
+    "Edo": "iEkhun",
+    "English Sentences": "That woman's waist is huge",
+    "Edo Sentences": "iEkhun okhuo nii digba",
+    "English Translations": "Waist woman that huge"
+  },
+  {
+    "English": "wake up",
+    "Edo": " yore",
+    "English Sentences": "This man has woken up",
+    "Edo Sentences": " Opkia na yore ne",
+    "English Translations": "man this woke up has"
+  },
+  {
+    "English": "walk",
+    "Edo": " khian",
+    "English Sentences": "Osaze walks to school",
+    "Edo Sentences": " Osaze khian ye esuku",
+    "English Translations": "Osaze walk to school"
+  },
+  {
+    "English": "Wall, walls",
+    "Edo": " Egbekhen",
+    "English Sentences": "Ifueko is standing on the wall",
+    "Edo Sentences": " Ifueko mudia yan egbekhen",
+    "English Translations": "Ifueko stand on mall"
+  },
+  {
+    "English": "wash",
+    "Edo": " kpe",
+    "English Sentences": "Father is washing the car",
+    "Edo Sentences": " Baba kpe imoto",
+    "English Translations": "Father wash car"
+  },
+  {
+    "English": "Water, Waters",
+    "Edo": " Amen",
+    "English Sentences": "Where is the coconut water?",
+    "Edo Sentences": " Amen oghe ivin vbo?",
+    "English Translations": "Water of coconut where?"
+  },
+  {
+    "English": "way",
+    "Edo": " ode",
+    "English Sentences": "The way to the palace is far",
+    "Edo Sentences": " Ode oghe Eguae re",
+    "English Translations": "Way of palace far"
+  },
+  {
+    "English": "we",
+    "Edo": " ma ",
+    "English Sentences": "We are going to school",
+    "Edo Sentences": " Ma rie esuku",
+    "English Translations": "We go school"
+  },
+  {
+    "English": "Wealth",
+    "Edo": "iEfe",
+    "English Sentences": "Wealth is good to have",
+    "Edo Sentences": "iEfe ma na mwen",
+    "English Translations": "Wealth good to have"
+  },
+  {
+    "English": "wear",
+    "Edo": " rrie",
+    "English Sentences": "Wear a watch",
+    "Edo Sentences": " Rrie egogo ye obo",
+    "English Translations": "Wear clock on hand"
+  },
+  {
+    "English": "wear",
+    "Edo": " yo",
+    "English Sentences": "Wear your shirt",
+    "Edo Sentences": " Ya yo ewe were",
+    "English Translations": "Go wear shirt your"
+  },
+  {
+    "English": "wear (shoe)",
+    "Edo": " gbe",
+    "English Sentences": "The baby wore shoes",
+    "Edo Sentences": "iOmomo gbe ibata",
+    "English Translations": "Baby wear shoe"
+  },
+  {
+    "English": "weekend",
+    "Edo": " uzola",
+    "English Sentences": "We will go to school this weekend",
+    "Edo Sentences": " Ma gha ye esuku vbe uzola na",
+    "English Translations": "We will go school weekend this"
+  },
+  {
+    "English": "welcome",
+    "Edo": "iobokhian",
+    "English Sentences": "Welcome old woman",
+    "Edo Sentences": "iObokhian Edede",
+    "English Translations": "Welcome old woman"
+  },
+  {
+    "English": "welcome (plural)",
+    "Edo": " wabokhian",
+    "English Sentences": "Welcome my friends",
+    "Edo Sentences": " Wabokhian ose mwen",
+    "English Translations": "Welcome friends my"
+  },
+  {
+    "English": "well",
+    "Edo": "iese",
+    "English Sentences": "You ran well",
+    "Edo Sentences": " U rhule ese",
+    "English Translations": "You ran well"
+  },
+  {
+    "English": "well cooked",
+    "Edo": " ga",
+    "English Sentences": "The food is done / well cooked",
+    "Edo Sentences": " Evbaire wa ga",
+    "English Translations": "Food very well cooked"
+  },
+  {
+    "English": "well done",
+    "Edo": "iobevbaru",
+    "English Sentences": "Well done elders",
+    "Edo Sentences": "iObevbaru Eniwanren",
+    "English Translations": "Well done elders"
+  },
+  {
+    "English": "well done (to one working)",
+    "Edo": "iobaiwinna",
+    "English Sentences": "Well done children",
+    "Edo Sentences": "iObaiwinna ibieka",
+    "English Translations": "Well done Children"
+  },
+  {
+    "English": "well done (to those working)",
+    "Edo": " wabiwinna",
+    "English Sentences": "Well done siblings/relatives",
+    "Edo Sentences": " Eten wabiwinna",
+    "English Translations": "Siblings/relatives well done"
+  },
+  {
+    "English": "Well, Wells",
+    "Edo": " Ughia",
+    "English Sentences": "There is water in the well",
+    "Edo Sentences": " Amen re ughia",
+    "English Translations": "Water in well"
+  },
+  {
+    "English": "what",
+    "Edo": " de",
+    "English Sentences": "What day are you coming?",
+    "Edo Sentences": " De ede ne u dee?",
+    "English Translations": "What day the you coming?"
+  },
+  {
+    "English": "what",
+    "Edo": " vbo",
+    "English Sentences": "What is this?",
+    "Edo Sentences": " Vbo na khin?",
+    "English Translations": "What is this?"
+  },
+  {
+    "English": "where",
+    "Edo": " de",
+    "English Sentences": "Where are you going?",
+    "Edo Sentences": " De eke ne u rie?",
+    "English Translations": "Where place the you going?"
+  },
+  {
+    "English": "where",
+    "Edo": " vbo",
+    "English Sentences": "Where is the cane?",
+    "Edo Sentences": " Asan vbo?",
+    "English Translations": "Cane where?"
+  },
+  {
+    "English": "who",
+    "Edo": " gha",
+    "English Sentences": "Who is this?",
+    "Edo Sentences": " Gha na khin?",
+    "English Translations": "Who is this?"
+  },
+  {
+    "English": "will",
+    "Edo": " gha",
+    "English Sentences": "We will come tomorrow",
+    "Edo Sentences": " Ma gha re vbe akhue",
+    "English Translations": "We will come for tomorrow"
+  },
+  {
+    "English": "will",
+    "Edo": " nu",
+    "English Sentences": "What time will you come?",
+    "Edo Sentences": " De eghe nu ya dee?",
+    "English Translations": "What time will you come? "
+  },
+  {
+    "English": "Wind",
+    "Edo": "iEho",
+    "English Sentences": "It is windy outside",
+    "Edo Sentences": "iEho re ohe",
+    "English Translations": "Wind is out"
+  },
+  {
+    "English": "Witch, wizard",
+    "Edo": " Azen",
+    "English Sentences": "Do you believe in witches?",
+    "Edo Sentences": " We yayi ighere azen ro?",
+    "English Translations": "You beileve that witches exist?"
+  },
+  {
+    "English": "with",
+    "Edo": " ke",
+    "English Sentences": "Stand with your mother",
+    "Edo Sentences": " Mudia ke iye were",
+    "English Translations": "Stand with mother your"
+  },
+  {
+    "English": "Woman",
+    "Edo": " Okhuoba",
+    "English Sentences": "That woman has a farm",
+    "Edo Sentences": " Okhuoba nii mwen ugbo",
+    "English Translations": "Woman that have farm"
+  },
+  {
+    "English": "Women",
+    "Edo": " Ikhuo",
+    "English Sentences": "These are market women",
+    "Edo Sentences": " Ikhuo eki ena khin",
+    "English Translations": "Women market these are"
+  },
+  {
+    "English": "work",
+    "Edo": " winna",
+    "English Sentences": "I will work tomorrow",
+    "Edo Sentences": " I gha winna vbe akhue",
+    "English Translations": "I will work tomorrow"
+  },
+  {
+    "English": "worship",
+    "Edo": " ga",
+    "English Sentences": "We only serve God",
+    "Edo Sentences": " Osanobua kekan ma ga",
+    "English Translations": "God only we serve"
+  },
+  {
+    "English": "wrestle",
+    "Edo": " vben",
+    "English Sentences": "Osagie wrestles/fights too much",
+    "Edo Sentences": " Osagie vben gbe",
+    "English Translations": "Osagie wrestles/fights too much"
+  },
+  {
+    "English": "write",
+    "Edo": " gben",
+    "English Sentences": "Write something here",
+    "Edo Sentences": " Gben emwin ye evban",
+    "English Translations": "Write something on here"
+  },
+  {
+    "English": "Yam, Yams",
+    "Edo": "Iyan",
+    "English Sentences": "You all eat yam a lot",
+    "Edo Sentences": " Wa rrie iyan gbe",
+    "English Translations": "You all eat yam too much"
+  },
+  {
+    "English": "yesterday",
+    "Edo": "node",
+    "English Sentences": "Children of yesterday",
+    "Edo Sentences": " Ibieka node",
+    "English Translations": "Children yesterday"
+  },
+  {
+    "English": "you",
+    "Edo": "u",
+    "English Sentences": "You are beautiful",
+    "Edo Sentences": " U mose",
+    "English Translations": "You beautiful"
+  },
+  {
+    "English": "you",
+    "Edo": "we",
+    "English Sentences": "Where are you?",
+    "Edo Sentences": " We vbo?",
+    "English Translations": "You where?"
+  },
+  {
+    "English": "you all",
+    "Edo": "wa",
+    "English Sentences": "Where are you all?",
+    "Edo Sentences": " Wa vbo?",
+    "English Translations": "You all where?"
+  },
+  {
+    "English": "your",
+    "Edo": "were",
+    "English Sentences": "This is your shirt",
+    "Edo Sentences": "iEwu were na khin ",
+    "English Translations": "Shirt your is this"
+  },
+  {
+    "English": "your (many)",
+    "Edo": "uwa",
+    "English Sentences": "Where are your siblings?",
+    "Edo Sentences": " Oten u wa vbo?",
+    "English Translations": "Siblings your where?"
+  }
+]
