@@ -43,7 +43,7 @@ const translate = (sourceText, sourceLang, targetLang) => {
   return results.length > 0 ? results : [{ error: `No translation found for "${sourceText}"` }];
 };
 
-// Define the /translate endpoint
+// Define the /translate endpoint s
 app.post('/translate', (req, res) => {
   const { source_text, source_lang, target_lang } = req.body;
   if (!source_text) {
