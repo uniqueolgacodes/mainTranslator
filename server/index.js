@@ -43,7 +43,7 @@ const translate = (sourceText, sourceLang, targetLang) => {
   return results.length > 0 ? results : [{ error: `No translation found for "${sourceText}"` }];
 };
 
-// Define the /translate endpoint s
+// Define the /translate endpoint
 app.post('/translate', (req, res) => {
   const { source_text, source_lang, target_lang } = req.body;
   if (!source_text) {
@@ -59,7 +59,7 @@ app.post('/translate', (req, res) => {
 });
 
 // Start the server
-const PORT = 4000;
+const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
