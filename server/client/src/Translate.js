@@ -27,7 +27,7 @@ const Translate = () => {
     try {
       setError(''); // Reset error message
       console.log('Sending request to server with source text:', sourceText); // Debugging line
-      const response = await axios.post('http://localhost:10000/translate', {
+      const response = await axios.post('http://localhost:4000/translate', {
         source_text: sourceText,
         source_lang: sourceLang,
         target_lang: targetLang,
