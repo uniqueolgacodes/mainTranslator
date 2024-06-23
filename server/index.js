@@ -1,50 +1,62 @@
-// Import required packages
+
 const express = require('express');
 const bodyParser = require('body-parser');
 const path = require('path');
 const cors = require('cors');
-const fs = require('fs');
+const axios = require('axios');
+const xlsx = require('xlsx'); 
 
-// Log the current directory name for debugging
+
 console.log(__dirname);
 
-// Create an Express app
+
 const app = express();
 app.use(bodyParser.json());
-app.use(cors()); // Use CORS
+app.use(cors());
 
-// Serve static files from the React app
 app.use(express.static(path.join(__dirname, 'client/build')));
 
 app.get('*', (req, res) => {
   res.sendFile(path.join(__dirname, 'client/build/index.html'));
 });
 
-let data = [];
-
-try {
-  // Load the JSON file
-  const jsonData = fs.readFileSync(path.join(__dirname, 'data.json'), 'utf-8');
-  data = JSON.parse(jsonData);
-  console.log('Loaded data from JSON:', data); // Debugging line
-} catch (error) {
-  console.error('Error reading the JSON file:', error);
-}
-
-// Create a translation function
-const translate = (sourceText, sourceLang, targetLang) => {
+//  translation function
+const translate = async (sourceText, sourceLang, targetLang) => {
   const cleanedSourceText = sourceText.trim().toLowerCase();
-  console.log('Searching for:', cleanedSourceText); // Debugging line
-  
-  const results = data.filter(entry => 
-    entry[sourceLang] && entry[sourceLang].toString().toLowerCase().includes(cleanedSourceText)
-  );
-  
-  return results.length > 0 ? results : [{ error: `No translation found for "${sourceText}"` }];
+  console.log('Sending request to external API with:', cleanedSourceText); 
+
+  try {
+    const response = await axios.post('https://bd14-34-125-88-65.ngrok-free.app/translate', {
+      source_text: cleanedSourceText,
+      source_lang: sourceLang,
+      target_lang: targetLang
+    }, {
+      responseType: 'arraybuffer' 
+    });
+
+    console.log('Received response from external API:', response); 
+
+    
+    const workbook = xlsx.read(response.data, { type: 'buffer' });
+    const sheetName = workbook.SheetNames[0];
+    const worksheet = workbook.Sheets[sheetName];
+    const jsonData = xlsx.utils.sheet_to_json(worksheet);
+
+    console.log('Parsed XLSX to JSON:', jsonData); 
+    return jsonData.length > 0 ? jsonData : [{ error: `No translation found for "${sourceText}"` }];
+  } catch (error) {
+    console.error('Error while getting translation from external API:', error);
+    if (error.response) {
+      console.error('API response data:', error.response.data);
+      console.error('API response status:', error.response.status);
+      console.error('API response headers:', error.response.headers);
+    }
+    return [{ error: 'Failed to get translation from external API.' }];
+  }
 };
 
 // Define the /translate endpoint
-app.post('/translate', (req, res) => {
+app.post('/translate', async (req, res) => {
   const { source_text, source_lang, target_lang } = req.body;
   if (!source_text) {
     return res.status(400).json({ error: 'Source text is required' });
@@ -54,11 +66,11 @@ app.post('/translate', (req, res) => {
     return res.status(400).json({ error: 'Source and target languages are required' });
   }
   
-  const translation = translate(source_text, source_lang, target_lang);
+  const translation = await translate(source_text, source_lang, target_lang);
   res.json({ translated_text: translation });
 });
 
-// Start the server
+
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
